@@ -1,0 +1,1001 @@
+user_id,name,signup_date,purchase_amount,country
+b0c9b483-1561-4e59-9943-35cb11b2fc4d,Victor Bowen,2020-10-04,130.73,Monaco
+b6b160ed-1d01-4b9e-af0a-af18e46db337,Diana Paul,2020-02-21,108.57,Finland
+718e4662-eb52-4e65-91c3-0d1eea38fe51,John Parks,2025-05-14,422.94,Rwanda
+f2942947-d22c-47ee-b14a-16edc3b33417,Christopher Williams,2021-06-22,349.63,Cayman Islands
+1af304c0-3b26-4a44-8acc-77d3a64b16c9,Michael Andrade,2024-03-24,24.92,Cameroon
+13ed1bb2-1ab8-4993-9f9d-d528054618a9,Rachel Beard,2022-05-23,332.56,Northern Mariana Islands
+22d6cec5-733d-4b0e-a14f-e7a0a84bf7ca,Angela Hernandez,2024-06-17,82.29,Italy
+99d10a26-438c-4ad2-b786-1449ad5f91ff,Melissa Clark,2023-09-01,301.11,United Kingdom
+b8741443-a9eb-4549-968f-135748e45c2c,Alexandria Adams,2025-08-18,411.6,Monaco
+10dcac10-25c0-475d-ab5a-abefa7e1465b,Tracy Fletcher,2021-03-18,364.16,Samoa
+c9674933-6e22-474f-80b9-ebecf1edc30a,Eric Stark,2022-05-31,24.77,Paraguay
+62c9927e-a61f-4e49-be19-2d7eb93cc81f,Mark Costa,2021-01-25,321.06,Germany
+9a22f610-fad0-4b34-9e24-5099afe68d20,Andrea Moore,2022-10-02,121.13,Anguilla
+dafecee0-5e23-4087-b446-ae443ac57611,Carlos White,2024-02-06,352.24,Uganda
+6c5b6521-a3a2-41b1-8401-d930d585d01f,Rebecca Moore,2025-01-07,192.98,Madagascar
+518ad9b4-d971-4ba4-af05-5311cd39933a,Paul Mcgee,2021-11-27,156.17,Marshall Islands
+16e17798-118a-4270-afe6-791490e52eaa,Emily Jarvis,2023-11-30,205.1,Philippines
+fc103b88-e114-46bd-85f2-8f0fe8bb5acf,Robert Keith,2025-03-05,312.09,Singapore
+84b2bb21-a137-44c6-beae-626d34c4dde0,Jermaine Young,2020-01-06,348.69,Greece
+cf05e4a9-7a6b-48df-9d56-ba300f824445,Dustin Carter,2021-10-13,429.15,Mexico
+c87ae2c2-bc68-45ea-8205-341a86cf3159,Emily Nichols,2021-09-08,217.55,Guadeloupe
+c7c7c8b6-9d30-4648-931a-4f924ead31dc,Gregory Little,2022-03-24,150.15,Vanuatu
+fe49985c-c138-43ff-b5e8-fcd5efc327b1,Carlos Grimes,2022-08-22,481.05,Samoa
+9af8c7cc-76ff-47fd-a71e-a971606da4e6,Carol Aguilar,2022-02-23,346.89,Japan
+4c7f230b-be39-4c38-b3ed-802e5052457b,Katherine Hernandez,2020-09-14,32.7,Nigeria
+7b5d69f9-6a8e-437c-91c3-418545432984,Jonathan Rivera,2020-06-17,13.26,Guatemala
+300ebb6d-e4f8-47c9-ba4b-6e5c856c9e98,William Moore,2024-04-14,260.24,Denmark
+e46ecea0-1844-4ca4-8db8-e0267f8bd397,Susan Hill,2021-04-17,221.12,Reunion
+f040b82f-db5e-4625-8229-d8ba4660c2ac,John Rivera,2025-01-22,59.01,Morocco
+c9f172de-b1b9-4f97-bda9-822b33767285,April Lopez,2023-04-14,102.42,Tokelau
+275c5c38-d631-4ce9-8bdb-9e6e033c37f9,Kyle Barrett,2023-08-01,40.35,United Kingdom
+a019dbec-e618-43f5-a672-10aa2df0c8c2,Joanne Hale,2022-09-23,259.84,Cambodia
+32b9096f-292a-4c11-8811-8b48ff73ef08,Andre Guerrero,2020-05-08,384.66,United Kingdom
+fb2bef3b-fc19-42af-bf02-7e4d2575f8ce,Robin Perkins,2024-04-08,326.99,Vietnam
+ab60b20a-7877-42f9-abc9-e442ae0a397a,Linda Lynn,2025-04-09,429.11,United States Minor Outlying Islands
+e6010e68-b893-4947-97a9-adbc0a0aaf47,Kevin Hayes,2025-08-05,86.16,Pitcairn Islands
+9fa05706-88d0-4fe3-98c3-dda98069260f,William Hendricks,2024-04-18,196.81,French Guiana
+a90278d8-22e9-4a8d-b13e-47ebd1204f38,Sabrina Levy,2022-07-12,348.54,Syrian Arab Republic
+c364f6d2-ede6-4294-985c-b67acde42576,Johnny Washington,2023-11-04,242.07,Argentina
+7f9e06f4-d6bf-4a69-8b56-54c8192c0077,Desiree Reed DVM,2022-06-30,332.35,Portugal
+22082ecb-5628-4af1-aa05-31231a07b8a9,Jerry Richardson,2023-02-27,132.45,Georgia
+5ba69080-1897-4320-8f02-4e1d89275b24,Samuel Montoya,2024-07-27,61.33,United States of America
+3cb6d276-a1b9-475b-a46e-6f6dced42290,Destiny Lewis,2022-02-05,216.64,Portugal
+7f0b5670-e691-43b5-bd0c-621176bd620c,Tonya Hammond,2024-05-26,297.56,Norfolk Island
+db73eda8-1e1b-4aa6-8e61-c707949ae8b1,Laura Hickman,2022-04-21,53.04,Madagascar
+4b2a31aa-564b-4d5a-a997-d7ba4b703bc8,Brenda Wright,2020-01-06,452.14,Bosnia and Herzegovina
+374340c1-c6a9-4416-8f96-8b376382e9f8,Tammy Mueller,2024-05-31,174.49,Burundi
+f068a361-c3a8-46e5-8769-3813014aced1,John Haynes,2021-08-13,103.87,Nepal
+973974b7-64fd-49fc-8b46-53821599a788,Nicole Schmidt,2020-06-30,465.53,Brazil
+dddb64bd-1854-42cc-8a15-24064f7ac824,Jennifer Santiago,2025-02-15,459.83,Iran
+36967a90-7648-4de1-af17-0acba4fd47e6,Justin Santana,2022-11-19,401.26,Timor-Leste
+d65bd3e4-76c2-40cc-83a3-eac8d1efb7dc,Robert Garcia,2024-08-10,16.8,Afghanistan
+e7d18504-fa8c-4b62-a1c2-a0d2d76243ae,Troy Carlson,2024-11-12,182.61,Morocco
+fab37eeb-d108-4bcd-b1a2-976acf41a445,Vincent Williams,2025-07-08,456.78,Swaziland
+3688dd6f-52fd-46ce-8cbf-4e3ea94256fd,Emily Graham,2023-09-29,219.38,Monaco
+1a4ce8cc-853f-48e0-9393-4cbe8047194e,Cynthia Reyes,2020-10-06,458.06,Cote d'Ivoire
+ea6d8389-c480-43dc-b067-4bb613d929e1,Kimberly Ball,2021-06-09,347.84,Sao Tome and Principe
+5c172318-c423-480c-bbbc-ec5edb916149,Parker Rogers,2024-08-24,374.83,France
+f121b847-e4ce-4785-805c-ae3984f6f0e4,Briana Foley,2022-04-28,499.45,Korea
+81e46b7f-77f5-494e-a52b-e2f6d12acff6,Timothy Wong,2025-03-15,141.92,Monaco
+4ce8c849-c4cc-4600-900e-5a1ba8b9d0bc,Ashley Sanchez,2024-12-30,328.47,China
+fad030fb-565d-4fa8-8454-de6b156a461a,Jason Pineda,2022-07-21,70.34,South Africa
+cae152cc-7738-44c8-b57b-28625036a6dc,Mary Potter,2024-10-29,353.83,Poland
+ba267c52-238e-45dc-ba82-571c6322d8ad,Adam Hill,2020-04-20,119.27,Monaco
+f318457b-4ad5-408b-b021-dacfccdbd679,Steve Roberts,2022-10-15,243.34,Fiji
+c3ebd987-8580-468a-9748-6873999e97ca,Alexandra West,2022-01-23,53.86,Vietnam
+d69d0379-b874-4476-aaab-2e4db225aa1d,Brent Lewis,2022-01-23,410.57,Ghana
+ad8bb45b-78a9-4906-9d4f-c1ca298aaf5c,Kristen Holden,2022-08-08,162.57,El Salvador
+2055654b-92bb-4754-8883-f078a4398b9f,Margaret Lee,2022-09-25,499.9,Antigua and Barbuda
+345e2022-53ba-4687-afb3-a5e847b269bb,Andrea Nichols,2023-11-22,188.3,Bouvet Island (Bouvetoya)
+bdc16b85-11ec-4abe-840f-7d6013c00ed9,Carla Smith,2021-06-09,238.33,Kiribati
+b0dee388-2924-40d0-98fc-e6d6d8f0e5e6,Renee Hull,2023-02-14,149.48,United States of America
+4af75db9-a6aa-4525-a17a-8b00935a58b3,Joseph Brooks,2022-10-02,424.47,Papua New Guinea
+e0d447bb-433a-4726-aeec-1b321a724565,Raven Smith,2021-04-21,407.53,Martinique
+c00f0be7-9020-4559-aee4-a4b595d9d8a5,Dominic Woods,2022-12-14,404.8,Cyprus
+325c6b36-0622-4472-b3f2-f9a890d165dc,Larry Simmons,2020-12-10,411.24,Faroe Islands
+04d86777-7530-4276-aa0b-7559fa9a9d94,Justin Grant,2023-09-05,296.7,Austria
+ce6b6cc9-b1ab-41bd-b8e1-a5a8e2f3b3e1,Darren Moss,2020-10-06,497.83,Puerto Rico
+b2f97261-98e1-4515-b81d-7148fb0b2d3b,Laurie Ellis,2020-08-17,198.39,Zambia
+f1b80c51-dc7d-4f59-a2aa-d70f22f6e133,Eric Wood,2020-06-06,243.99,Suriname
+5b9eb9cf-ea5a-452f-815c-7fe8033fe6c6,Allison Hanson,2022-09-11,77.37,Pakistan
+934c4cf6-1c8a-4c11-9f45-ac140eacb7d0,Andrew Scott,2022-08-07,241.76,Bouvet Island (Bouvetoya)
+69e44a67-dc70-48c4-aa58-2886f69d262f,Cheryl Deleon,2025-07-23,264.46,Togo
+52644411-c1c7-40e2-9b05-cf0da0d7b6c0,Rodney Reeves,2023-03-13,459.57,Palestinian Territory
+72d4962b-b7a7-4dc2-986a-8b705c827115,Michael Miller,2023-11-07,297.44,Gabon
+952db6c8-c553-41f4-822f-cc2f71addca3,Erik Pierce,2022-11-16,285.21,Marshall Islands
+dcaa5338-84b2-4b80-8671-a538f8188cde,John Soto,2020-01-07,476.63,Botswana
+d6aaa29d-f988-4680-9cb4-0dd2561ec1f1,Teresa Herrera,2023-11-13,161.6,Oman
+974bfaf3-2fbd-4089-b110-49b6e1ebbe21,Connie Skinner,2023-03-12,270.3,Monaco
+d7fdd925-1b1a-4a51-98d9-74bd532a8e21,Christina Obrien,2021-01-17,458.17,Slovakia (Slovak Republic)
+421dcbaf-9dd0-4951-8029-90da3e99af05,Joseph Martinez,2024-09-08,163.86,Serbia
+7058ce3d-253a-4cef-affa-e7981c4c0543,Mr. Jeffrey Pena,2021-01-09,225.31,Paraguay
+9ee7cc1d-2009-43ff-908f-c21d028bda0d,Kelly Martin MD,2022-10-31,243.62,Swaziland
+ab9f7f97-f1bf-455f-a23e-f0a3b8c739b3,Paula Hendrix,2023-05-24,352.04,Ecuador
+fc44e5c6-6700-45ed-a6bb-136a656c2fe9,Robert Arnold,2024-08-06,110.17,Suriname
+0b001566-f376-43a8-a5b0-8d4cae81faa8,Susan White,2020-12-29,461.5,Korea
+f1dda453-258a-430f-a47e-abbdc70062d2,Carl Wise,2023-01-15,253.47,Syrian Arab Republic
+223dd338-06ec-49bc-904e-af6d54a48d07,Angela Newman,2021-06-03,336.86,Belgium
+38c631cb-0353-40b4-8ada-1b52219279b0,Amanda Coleman,2024-09-15,30.18,Samoa
+772942b1-e6ea-4ec9-9cec-2e81ea097ee9,David Herrera,2024-02-22,57.91,Qatar
+149313fa-3f6e-465f-9d64-afed458e9291,Lance Perez,2024-01-05,250.32,Tanzania
+7926d1e4-7ff3-4336-a3bc-dd697fdeafad,Steven Brown,2025-07-09,478.13,Turkmenistan
+3a4f4179-5609-4502-b09e-9a059b763cbf,Jennifer Mitchell,2021-02-03,135.51,Oman
+82c140a0-0f24-4ad2-8c2a-9aaa5b226e7d,Lydia Lewis,2025-08-10,102.41,Poland
+38d8307c-5a21-4073-9255-fe1e384b6c7e,Robert Heath,2022-01-04,216.12,Jamaica
+a8694f51-df2a-498b-a0a9-147995c5cf06,Julia Simon,2023-08-18,46.72,Bahrain
+6381b2d9-e34c-4123-87ef-229c26c3c7b9,Michael House,2024-07-28,489.54,Trinidad and Tobago
+e4b89363-5f62-42aa-b501-4ccf91e9541e,Molly Jarvis,2025-04-15,273.08,Marshall Islands
+72074f77-9dc2-498b-a4b6-750674bc228d,Stephanie Lopez,2023-05-13,334.98,Saint Kitts and Nevis
+3a28b2e2-9f28-45b1-8acc-2070a012dbf6,Cassandra Vasquez,2023-01-13,198.06,Lesotho
+5831684a-4975-431e-bcae-0b4fcbf3fadb,Kelly Juarez,2023-09-21,234.19,Latvia
+ee9392f5-349c-4da2-8bac-0f1134c9e852,Justin Johnson,2020-08-13,218.86,Burundi
+6bd7333c-a17e-4611-9392-1a571642586e,Christina Torres,2022-03-04,404.13,Sweden
+4fe2b2bd-a87a-4c84-bd76-123cb3cfe52c,Renee Delacruz,2023-06-06,42.56,Ecuador
+98484633-9151-4267-8b2b-7fac29926932,Jerry Riley,2023-01-29,457.69,Sweden
+a5984e62-6d90-4f19-8007-c2737a69aadd,Aaron Brown,2025-07-12,457.98,Iran
+0edc41c5-6fdd-4eb0-95a1-7feb22068d61,Mikayla Harris,2023-09-18,381.29,Greece
+c3a0067e-86a9-4af8-b174-64297c496264,Jeffrey Payne,2021-06-24,423.16,Martinique
+ea52195d-9423-40c5-9502-80834d19ccf1,Barry Wilson,2024-05-30,406.03,Saint Kitts and Nevis
+f0db14a2-dfb4-4ad5-abf0-06689749034f,Rhonda Guzman,2023-01-02,216.31,Wallis and Futuna
+4d3b29ae-5044-4214-8f0f-a41a6f3f5604,Traci Thompson,2025-07-01,289.16,Egypt
+5b6bc233-cad2-49d8-a213-1d5e46da15ab,Robert Macdonald,2022-02-02,447.0,Greenland
+759e0303-ccc1-4896-b4db-adc00ab8999a,Brandy Morgan,2024-06-24,60.08,British Indian Ocean Territory (Chagos Archipelago)
+34576cb6-4341-408c-907d-05ec2a5d5374,Valerie Warren,2024-06-20,422.11,Cameroon
+b6e6c4a5-d748-4cef-b18c-d879ead79b0a,William Diaz,2022-06-16,464.3,Sierra Leone
+2dfd1167-1c38-411b-a2ab-713e56b170e2,Lisa Steele,2021-12-15,333.71,Zambia
+dd15efa6-3c39-484b-8ef1-4bf03f128a2b,Katherine Franklin,2023-04-27,78.4,Vietnam
+65190489-7963-4914-95a1-40a9ad44867b,Kimberly Smith,2023-09-14,415.78,Croatia
+494faba8-797c-40e0-9c39-21bb31929530,Julie Thompson,2020-09-11,343.46,Antigua and Barbuda
+7da0b3b1-e58c-4d45-8f34-a5bfd1e344e7,Alexander Duncan,2023-09-21,275.05,French Southern Territories
+de0b802a-1e5b-4282-8c73-edbd07097238,Jacob James,2023-12-25,477.15,Congo
+a4679145-3901-4bdf-a7af-6630e6e2d703,Joseph Perkins,2023-07-05,78.39,Norfolk Island
+70fde3ac-bbe7-4307-9024-261696b2e55e,Lisa Kent,2022-03-03,431.94,Comoros
+fde2da0d-32a0-42d1-be2b-04ce9d75e4f2,Teresa James,2024-11-13,428.39,Togo
+7676db58-67c9-4bf7-b206-4e0315443892,Brandon Bryant,2022-01-22,145.7,Germany
+4fd3a657-1e99-4807-9324-373ec0b5eef8,Charles Maxwell,2022-05-17,210.82,Morocco
+216af23d-d805-457d-b3e6-2437a2a39d4d,Nicole Lowe,2022-09-24,54.47,Saint Vincent and the Grenadines
+48c0d0de-ad20-42e6-a0ae-9abb6fc16fe8,Mr. James Torres MD,2022-06-04,484.44,Thailand
+30906a9c-46dc-452b-9a35-e82e4b44cc2a,Lisa Escobar,2020-12-12,489.93,Rwanda
+d76e7d19-0ef5-4f75-98f6-d525a5515185,Kim Gregory,2022-01-02,455.94,Tajikistan
+9324db0c-e46a-4261-959f-368aee2f899e,Shelley Bullock,2020-06-24,415.57,Liechtenstein
+967d2c62-770a-4e59-be3e-cffc0f1323b2,David Barnes,2022-11-25,171.93,Sweden
+ac40baf5-f989-4ee5-85fc-3db5413e12ca,Christian Short,2024-02-01,465.48,San Marino
+bb30bb54-7fce-4db4-a3ab-65be03d6f0b6,Jeremy Stewart,2022-07-18,394.57,Anguilla
+0c335e0c-3696-4210-98d7-3512b13b53db,Donald Scott,2021-03-07,427.93,Bahamas
+d6aa97d6-cb93-47b8-b5d9-c0334e038a41,Ashley Simon,2022-04-02,14.48,Saint Kitts and Nevis
+4729f447-a293-4fca-8be5-6945a2deebc6,John Krause,2023-03-29,260.39,Sri Lanka
+d81a7255-b844-4a08-9e92-310813bdaafa,Carolyn Williams,2020-05-29,40.25,Malawi
+fdc55f1c-1032-4a16-89fa-c9277545d7ef,Patrick Parker,2021-04-16,78.34,Botswana
+a3b543cc-b8a0-44ce-b830-fcc37031bd0b,James Silva,2021-11-28,61.62,Papua New Guinea
+19de9242-a04c-4566-8616-9789f13e148d,Megan Harris,2021-03-20,389.14,Maldives
+cee0313a-bfea-4485-a53c-0ed285275a19,Craig Evans,2024-04-29,366.09,Portugal
+2b4964ea-670f-4ab7-b74e-43e95c6de4ba,Anna Lynn,2025-04-30,499.6,Guinea
+b3a5a9c2-1762-4428-b2b7-c3c2cfb9fbf8,Gloria Curtis,2022-06-25,180.7,Angola
+4ef0ec0b-04ec-49e0-8641-a688616e04fb,Michael Huerta,2022-03-18,302.01,Uruguay
+c2d57fa2-e1a6-477c-8ae3-12ad38dad16a,Johnny Burgess,2022-11-03,473.78,Belize
+bf2a520a-b33a-4fdc-936a-1a52b4716171,James Rodriguez,2024-04-09,330.96,Senegal
+a6ae5e0b-ba9a-4608-b13c-14275aa88f7c,Daniel Mccullough,2023-10-08,264.54,Belarus
+1eb0c820-cc1b-494f-93b0-7cbc83be8c2f,Victoria Williams,2025-06-26,35.07,Turkey
+b4730add-dcc5-4e80-a01c-eef3dd797234,Cynthia Pratt,2021-11-08,212.45,Guam
+124f9bac-71e6-4df5-960a-fe0918b82931,Thomas Benitez,2022-04-19,251.5,United Kingdom
+43bf5e52-3193-4f93-b36d-7e92ab82a8bb,Anthony Miller,2025-07-03,93.02,Solomon Islands
+1a4d09e6-217a-4774-a77e-edb512336bbe,Willie Kim,2020-03-13,120.23,Korea
+bfbc2f08-6d16-47ef-b3af-8d19d86fc04d,Charles Larsen,2024-06-30,246.94,Saint Vincent and the Grenadines
+61de0217-efdb-4a1e-a749-dd66cd4cc74c,Juan Johnson,2020-12-02,240.51,Djibouti
+2b3c7f3e-1219-4c0c-a4f6-b845a33752ef,Stephanie Anderson,2024-05-06,88.21,Romania
+e181c326-f6d7-47fa-977b-5ba66b063d68,Jason Flores,2024-04-28,14.1,Cameroon
+7cab7c01-7474-4a91-82e9-0a523f03a840,John Osborne,2024-01-10,382.96,Portugal
+7ec1e0f8-e1a7-454d-92a9-9f94e3e075b9,Andrea Lawrence,2021-09-20,331.41,Peru
+9fae9f03-e665-4b57-b3d4-7e3c44924cb8,Bobby Sullivan,2021-10-17,266.65,United Kingdom
+4d6d063d-7444-4cb6-9c11-2bb673872995,Christopher Sanchez,2022-04-19,340.55,Colombia
+9292c69e-a595-4168-a218-435d428f13c0,Robert Hunt,2020-01-06,366.09,Singapore
+7123a058-a42f-443b-b851-07c7d9ffa2c2,Michael Moss,2024-04-13,256.69,Jersey
+f2989791-5a79-45f3-96c1-da74141cea4a,Angela Cabrera,2025-04-08,353.74,Georgia
+90b35ad6-5044-4e82-9400-28e4b086ccf3,Patricia Huffman,2023-01-06,304.86,Eritrea
+20f8fc16-f7c0-46f5-ae26-9aae865c8a49,Alex Burke,2023-01-31,451.05,Denmark
+811b9d43-a910-4715-bc00-a64dfadd0cfa,Brittney Reyes,2021-03-07,149.65,Cambodia
+c639a9d2-6288-4adb-9125-661f7082faf0,Nicole Jennings,2021-04-11,354.76,United States Virgin Islands
+d6c47d98-08b0-4dfa-b383-f4a1db9721b1,Thomas Hughes,2021-07-10,285.27,Venezuela
+fb14bc21-b076-4484-ab43-5eb916b1e4e1,Joseph Simmons,2022-11-21,486.74,Uruguay
+0b5b0f13-afe9-40f8-a877-ef4fccc6c43f,Robert Washington,2023-07-25,126.84,Mozambique
+0a530aa4-4cf8-4884-a86d-aa0c1ea0c3e5,Sara Walters,2022-12-12,203.32,Brazil
+e35f2c9e-dea8-4e17-aa82-7047513441e8,Patricia Murray,2025-06-07,435.74,Cote d'Ivoire
+9805b5e9-b7a5-4ac5-b7a6-4df6289077fb,Hannah Allen,2023-06-04,478.58,Kenya
+3353d8f1-c076-409f-bf6e-4167d6039720,Hector Bell,2022-08-22,40.42,Philippines
+5d7bf7c7-8999-4ab9-9e70-c74f59592fd9,Kevin White,2025-06-27,227.95,Jamaica
+24e314ac-5f45-4471-abf9-a3c0e5914199,Gregory Hughes,2025-06-05,187.63,Martinique
+d457c6ad-f91d-47aa-a273-b7ad6e78af99,Kimberly Liu,2024-01-04,434.05,San Marino
+93d8b4b4-7e78-4ef1-95dd-6a5343e1b684,Amber Marshall,2021-05-30,53.96,Guinea
+e810c124-a00c-41f2-a0c5-aa521844e11e,Robert Bell,2024-01-19,270.19,Togo
+7064838a-9d41-45ea-ac90-e6f243e72f6f,Laura Thomas,2023-09-28,488.66,Comoros
+adfa8229-b863-4fcf-b596-372f56235219,Brandi Stephens,2025-08-13,24.3,Zimbabwe
+b635abfb-defa-48ff-8277-287eea270968,Helen Wagner,2024-10-16,65.2,Sao Tome and Principe
+4ed9153c-f3b6-4c08-9b85-0649d6e3138d,Tara Bryant PhD,2022-06-22,262.6,Poland
+5853e5cd-fc19-47a2-a9c8-843176deee0b,Melody Reynolds,2025-06-23,31.48,Guatemala
+f9faa6d7-0d54-4194-858d-68517da1cb55,Kimberly Berry,2024-03-06,114.63,Maldives
+ce5fb6a2-9ecf-4ee8-9886-2267fe245671,Julie Daugherty,2021-07-19,38.48,Malta
+41060ee8-337e-4481-bd5b-3e19895cc3fc,Samantha Brown,2023-02-06,340.52,Serbia
+3d32b77a-7309-43c6-95c3-bf2e1d27bcf1,Adam Russo,2021-02-10,452.35,Saint Martin
+7b8f4f73-5144-44bd-89bf-0baed1c0e2ac,Annette Lindsey,2020-04-22,304.37,Bahamas
+3f521d87-6810-43cc-9d8d-4d583f8e8965,Melissa Rowland,2022-06-02,129.96,Honduras
+a3aa2a43-293b-4f0b-b6ba-21d0997770d2,Tracy Wood,2022-04-14,67.79,Micronesia
+fe808879-a98c-4ed2-a405-5c866d9bf417,Jessica Byrd,2020-01-23,248.0,Congo
+7c05349c-78db-4ed6-9f12-32d85e9e6789,Bryan Espinoza,2022-12-21,495.0,Peru
+2a470514-5891-4bf7-9c88-4fa7b334e161,Brittany Boone,2025-04-30,36.16,Mexico
+793e9817-6f46-4f89-b7d3-0373f9a0f211,Gregory Lewis,2022-02-01,102.18,Rwanda
+c8891995-0a66-4a5a-a023-41d3356023cf,Tamara Hall,2023-01-09,148.22,Kuwait
+49fce6a2-1bad-44d6-9b0b-0f38f9aa2bb2,Kristi Ward,2020-11-09,259.13,Pakistan
+326d12a2-e412-44ac-8841-ead92ff3a30a,Cathy Young,2025-05-06,273.33,Greece
+5ebc8b26-003e-44dc-833b-3c7860259839,Kenneth Johnson,2024-12-16,227.92,Christmas Island
+8378aab2-4266-4f36-b476-454558ad9c16,Nicholas White,2022-09-07,440.22,Cyprus
+bb5f5a0c-7a82-40a7-ae51-94232c5ac5b9,Lisa Smith,2022-10-31,118.48,Lao People's Democratic Republic
+6afbdc27-36d0-47bc-83ba-cdbbf6dc73d9,Sarah Morse,2023-08-01,290.37,Uruguay
+5ca72cdd-0ad0-42e2-bb7c-f26668793fb3,Linda Jimenez,2022-03-07,263.72,Namibia
+3d1fe24e-1d7e-423e-b044-3570f97f8fbd,Teresa Mccarthy,2023-06-14,423.7,Mayotte
+b40311d4-3760-4b7d-964b-4501d19e4106,Alexander Reyes,2020-08-03,204.87,Northern Mariana Islands
+141eed51-78d7-4a2f-8831-b383cb703750,Alexander Byrd,2023-07-11,360.52,Guyana
+99608bf3-ed67-428f-8ffe-e8d236cb26ff,Tiffany Patterson,2023-06-25,438.49,France
+01a44ef8-7867-4a2c-ba1c-7972643eb9d7,Robert Lopez,2021-09-10,274.63,Micronesia
+e6bfff77-3d4a-435d-853a-2c1e0561a69c,Sara Weber,2021-12-06,23.66,United Arab Emirates
+5c29cc29-531d-4115-a9bd-41bab8e38ce8,Judy Barton,2023-09-19,296.67,Switzerland
+0e556ece-735b-407d-a6bb-eda168e9de7b,Kelli Hester,2020-11-02,236.64,Palestinian Territory
+3f1fb7d4-4bb6-4a17-b41e-75a84cd5debe,Christine Murray,2024-10-09,370.33,Christmas Island
+698f737c-21af-4bba-9e35-b13372ddd05c,Troy Schwartz,2024-08-08,362.82,Nauru
+8ee15bee-e31a-437e-b4c3-0664fa094070,Michael Turner,2020-09-24,335.29,Kyrgyz Republic
+bd9f4a3f-1425-4341-bcea-2510b1012195,Chad Flynn,2023-04-24,190.52,Iraq
+92f1bb06-3410-453f-9dfe-8a5aeffd7c32,Eric Kim PhD,2022-04-11,412.38,Mozambique
+141ea4cd-d494-4dac-a2b3-ff0d1a055e7f,Christopher Morales,2021-09-08,370.01,Netherlands Antilles
+55c66317-83c9-40d4-8179-6cbf1c111d41,Colin Barnes,2022-10-15,370.92,China
+6884c7eb-f6d2-4747-980a-066edd449c20,Steve Pennington,2022-09-20,44.46,Serbia
+9ca6890b-6fcd-46b7-ba86-c82f55a48d40,Whitney Matthews,2020-12-13,375.09,Mozambique
+74c39584-bdab-4ba6-aedc-fab39beecaf2,Heather Massey,2024-08-23,426.9,Guatemala
+2bae23e1-992b-4e6d-ae0a-4f1d2d0afe59,Samuel Powers,2024-10-28,354.94,Taiwan
+55ee5673-1409-4142-a222-adce578e8996,Christian Aguilar,2022-11-01,418.29,New Caledonia
+c0a85173-eb1f-4720-a3ff-f66a33e4f738,Derrick Edwards,2023-12-26,111.25,Indonesia
+61f2b15c-c697-46db-9583-915e314b2f06,Lisa Chandler,2022-12-09,240.08,Sri Lanka
+3430afdd-2e78-4034-9a71-023605659b03,Jill Lane,2022-10-09,469.6,North Macedonia
+a28f7e0b-b4cb-4224-9c0d-10189ee70476,Donna Zuniga,2024-03-01,324.06,Latvia
+cce8ad06-c6d9-4d67-b072-848397450f80,Shelley Rowe,2020-05-22,441.25,Samoa
+47d415b7-7f87-4800-9856-e60a361d3544,Cynthia Morrison,2024-06-15,283.16,Croatia
+8d2332b3-5e7d-4696-9cf5-00da443f2db4,Rebekah Villa,2025-02-18,499.87,Israel
+597770ea-1c05-45ee-b554-235853e7ff4f,Ronald Reyes,2024-10-25,349.46,Saudi Arabia
+7e313114-9b1d-49a2-b70f-e86cb0e1fe81,Jocelyn Blair,2023-06-04,259.43,Congo
+8c96d320-debd-4a12-a30a-c3d889e38afa,Madison Castro,2023-07-14,262.88,Portugal
+184a695c-8a67-4eb6-a4eb-60760bfa6063,Jennifer Moore,2021-01-08,336.37,United States of America
+00acf4c3-0e97-4481-983e-8a9cafff40eb,Lindsey Jenkins,2022-03-18,84.68,Uganda
+12a5d06d-a4a8-4663-9030-7fa8707ef11f,Eric Acevedo,2024-12-10,43.08,Singapore
+18762243-23f4-4547-af1b-82785a84056c,Aaron Woods,2025-01-28,491.56,Dominican Republic
+7702d4fd-cd97-43e4-807a-5789eb9f662f,Randy Bradley,2021-08-16,26.74,Mexico
+80f72336-d24b-47a5-8e6a-f00f749c9749,Clayton Dominguez,2020-06-03,431.46,Serbia
+781f12ae-5d65-42d3-8216-e4b65f169ae3,Lisa Morris,2023-02-26,336.05,Isle of Man
+35d8b628-08fd-4d49-97e0-facb1c3cda48,Damon Martinez,2025-02-16,187.25,Mongolia
+9b0a2027-1de8-4335-aa6d-3f581487521b,Victoria Haas,2025-06-18,374.99,Botswana
+1e56ba35-eb1b-4639-999e-641074f14257,Thomas Hunter,2024-03-11,63.61,Suriname
+fe22e126-09fc-411d-9aeb-9d6b5e7c98a2,Robin Garcia,2023-01-04,227.27,Senegal
+54a4f9bc-c37d-4958-88a5-e481c7b52e6d,Cheryl Rogers,2020-12-13,459.03,Guadeloupe
+7383b510-b016-4f06-8834-5bbea43bfa1b,Douglas Washington,2024-07-28,434.84,Pakistan
+0ce64357-ab6d-4e56-b9f1-58db8f1597cc,Angela Hernandez,2023-11-06,433.87,Poland
+220698a2-b24a-4f20-95e8-b4a109127689,Michael Wheeler,2022-01-19,280.62,Afghanistan
+97ab380b-33e9-4fac-9076-6d04c2ef3b61,Karen Anderson,2022-03-29,272.2,Northern Mariana Islands
+da5f787a-e532-474a-b7e5-31dd3abb294b,Theodore Clark,2022-10-31,72.55,Slovenia
+3d7edfaa-3df3-45d6-adb1-435208fcd2f0,Barbara Castaneda,2024-08-27,307.38,Puerto Rico
+76be0b90-a7ee-4e03-a5e3-e4d740840290,Brianna Hernandez,2024-04-04,252.72,Croatia
+6be1a688-7c64-4a37-b343-5388713e53f0,Dorothy Miller,2020-07-08,428.24,Cote d'Ivoire
+81ecc8c0-0647-4872-b3df-be66e2f20da5,Kyle Wilkins,2025-06-30,63.75,Bulgaria
+a28ffbee-bd9e-4f5f-8c10-6173d56f06ea,Michele Wagner,2020-03-09,401.61,Portugal
+4e38d185-eb49-4427-85ac-6ed183f4b120,Sarah Thompson,2025-08-20,482.49,Cameroon
+49bf0e7d-07a6-4464-930f-d63c24a7c813,Angela Mcclure,2020-10-22,158.91,Solomon Islands
+e3beae67-2612-4afd-94cc-1ca986a5cecd,Alexis Anderson,2021-01-17,64.65,Niger
+cbb0269f-1b7a-4260-b24d-0ac4dc1a5410,Nathan Garcia,2021-10-20,295.55,Japan
+05e90d9b-304c-4e80-baa2-148988b93402,Heather Thomas,2024-12-07,335.43,Bulgaria
+947d321a-d134-49bc-886d-97bf6d9fe233,Debra Moore,2024-10-02,324.15,French Guiana
+abb9f2a8-cfee-4ff3-bdf0-e8fc0a350340,Michelle Robertson,2022-06-12,485.83,Djibouti
+34a2e249-7ff9-4255-9042-79adcfea0d95,Christian Ramirez,2023-10-27,103.88,Cuba
+09312d99-a938-44ae-9e64-a298e40bae8f,Peter Mckay,2023-10-10,321.68,Slovenia
+b1ba583a-e7f6-401c-8433-4c18f54252ba,Tammy Fox,2025-04-29,255.47,Bangladesh
+f69c0632-e665-4fd6-b7ac-d59059bafdb7,Courtney Kelly,2024-09-28,156.82,Svalbard & Jan Mayen Islands
+c4afcfdd-8f9e-4cad-840c-696b89355cd0,Nicole Luna,2024-12-13,137.31,Faroe Islands
+8535b098-2606-493b-9856-4e410e411296,Steve Deleon,2020-07-17,164.97,Sri Lanka
+4d70daa5-6cc5-4419-8c3f-a94cc5459113,Brianna Martin,2024-09-09,170.42,Trinidad and Tobago
+0af6489c-6b6c-4c3e-854b-73933eed0f40,Christopher Herrera,2025-02-22,44.51,Congo
+aa80aac3-0f9f-40e6-9183-9ff349f4decf,Mary Davies,2024-09-25,145.92,Liechtenstein
+056e68ac-1719-41f6-a92f-8f557504e35c,Michael Thomas,2021-07-08,40.5,Mozambique
+9ec46c04-2ae9-4872-9b8b-7ea88a5c3ffc,Beth Henderson,2021-01-06,358.07,Turkmenistan
+9aa79f43-a894-4f0e-b52e-db661a0173ac,Krista Peterson,2024-08-22,57.39,Nigeria
+fc0557dc-d9bd-4c38-b01e-c5414c4ae268,Derrick Martinez,2022-07-13,461.72,Sao Tome and Principe
+ba3b4211-7abe-4e14-8748-d72963e82ed0,Connor Jones,2022-07-30,378.97,Haiti
+a3004a32-f32b-45a7-a4f1-9e6626c6aaec,Michael Johnson,2022-11-17,196.07,Oman
+7a8d15d9-9b77-450a-aea5-6a01222c3b93,Brandi Lane,2022-09-02,221.12,Palau
+b1f6940a-a4cb-45f4-977e-906c21727975,Thomas Johnson,2020-10-03,127.22,Western Sahara
+b2462ccf-17bf-4f97-a1f6-428b3e2f20fe,Melissa Palmer,2024-02-07,304.95,Micronesia
+7cb71679-cb84-4016-aa60-31ceaa3e9b14,Terri Dixon,2025-05-19,304.13,Martinique
+bd4a45c6-9f28-41c8-8354-a6ad94a275d5,Renee Brooks,2020-08-16,249.36,Malaysia
+957e369c-5446-4c31-8ec8-0866c7512b80,Taylor Anderson,2022-07-18,207.96,Palau
+6c7dbaec-b990-47b9-9b50-a5095f5a62fb,Megan Robinson,2023-07-15,349.55,North Macedonia
+e25bd955-de25-4ece-90f0-855e417df981,Penny Hurley,2022-01-21,150.14,Montserrat
+f8f1d183-c11d-40ab-990e-b04c92095ea1,Jake Benjamin,2021-11-09,256.28,Trinidad and Tobago
+f11f99b1-6cb1-4270-8b6f-8415a54cd0e2,James Zimmerman,2022-04-25,471.11,Bhutan
+29d4fcbb-8d16-4e11-9c1a-3a532f632ae9,Anthony Gibbs,2020-10-29,18.21,Hungary
+a88ef760-e40a-4d5f-a3f6-a5f923522dde,Albert Harris,2024-10-30,92.49,Italy
+e7e6653e-4d06-4b72-ba01-4533f65b5de8,Kristine Suarez,2024-01-13,237.1,Tajikistan
+3791da7e-918b-409e-98c3-a7c04e8a9c97,Donald Long DDS,2025-04-03,286.77,Norway
+27bd8aea-0bd3-4bbb-94a2-6dbee3f70127,Brenda Gonzalez,2020-07-27,366.56,Burundi
+8f92d20b-d73f-40a7-93f1-6150f6a83f2e,Amanda Williams,2022-03-12,38.31,South Georgia and the South Sandwich Islands
+406fb745-7b79-4d00-b48b-9d6532b0f141,Lee Buckley,2020-07-18,415.59,Tonga
+a3cde206-639f-45c7-b609-2ddd39273538,Adrian Harrell MD,2024-07-28,467.07,Antigua and Barbuda
+14f4575e-c5e9-439c-97d6-87a2bc27d352,Stanley Johnson,2023-09-21,498.6,Sweden
+c582b911-2137-4bcc-888f-f5096049af64,James Hernandez,2021-09-12,421.71,Burundi
+58a19186-616e-4659-aaa9-4a2e3ff3b600,Suzanne Smith,2024-09-26,253.0,South Africa
+b8916b50-44a5-4b6e-8bff-b801b24c19fa,Elizabeth Irwin,2025-08-21,261.67,Iceland
+84a77b7f-7e64-4002-8923-9962f098a14f,Yolanda Taylor,2023-06-05,480.47,Congo
+4c05e1a8-1d4c-44be-b3e2-53f77bf58dcf,Sabrina Hurst,2025-03-13,173.9,Reunion
+6a734073-2874-484a-9a15-cb010f3087ce,Hailey Thompson,2025-01-19,425.5,Guyana
+8715418a-ce1a-4d62-96d6-a544db822b12,Michelle Martinez,2024-05-12,475.27,Namibia
+bff79a95-4032-4321-9a76-5d7d3dafa8e6,Karen Roberts,2023-05-22,81.18,Iran
+bc394469-3a6d-459a-9ab8-e63fa90fd7a1,John Chaney,2023-07-02,256.29,Grenada
+b1853743-71eb-4c66-9627-09465ecce74f,Katrina Morgan,2022-06-14,303.82,Vanuatu
+0292207e-266b-41d2-8b27-3534ded69f14,Sherry Austin,2021-08-01,301.0,Bangladesh
+53723f46-1dca-48cd-85e0-48ab74a7d6d6,Ariana Sweeney,2022-07-24,432.87,Guyana
+6484709a-b997-453c-9765-6a0c63e59766,Jason Melton,2020-07-30,227.12,Gabon
+02ee5d75-b25c-4dbe-87cd-a6754c56d2e1,Ashley Nunez,2020-11-05,170.35,Brazil
+38f8e648-8ca9-4a95-9fa0-5732c3b09d97,Cassandra Brown MD,2020-09-09,320.22,Maldives
+184780b6-9363-4f1c-b397-e50d3b76391a,Jeffrey Hoffman,2020-06-09,260.12,Lithuania
+550509b9-7ee1-4d5d-b978-1807f21d4a0d,Kayla Carlson,2023-04-02,79.81,Nigeria
+a54ad938-f57c-4460-9cc4-1a44f2280465,Theresa Harrison,2020-01-07,271.11,Ethiopia
+b859a9fe-e05d-4dca-a680-2bf59693d153,Dawn Fuentes,2022-02-27,462.53,Bhutan
+501c57e8-d617-443a-aa20-8ca78c8a92a6,Paula Kirby,2020-07-08,403.12,Cape Verde
+6e1086cc-5595-4197-bfec-da9725ad7c99,Heather Dudley,2024-05-26,436.77,Antarctica (the territory South of 60 deg S)
+442fd5db-fe18-4452-94e2-81d59cb5a3bb,John Jones,2021-07-11,357.26,Ukraine
+25164a09-489f-4130-80d4-92692282ba64,Kenneth Schmidt,2021-01-11,299.05,Anguilla
+aa6b410e-cad0-4a08-a358-187b6161fa40,Paige Lester,2020-07-10,295.91,Holy See (Vatican City State)
+67fc201e-2962-48d4-8ade-3ede3fca2305,Troy Bowman,2022-12-03,237.73,Mozambique
+8a13eef3-cced-43d2-93a3-28e580aafdd8,James Anderson,2023-06-17,158.05,Ireland
+501784d6-61ff-4400-be13-73bd84b0ee3e,Donna Glenn,2022-08-07,278.04,Malaysia
+981a71e6-54ae-4162-ad96-57b9f22f53ce,Linda Cross,2021-01-08,208.53,Timor-Leste
+a5c8590b-c0f5-4a13-b640-4304e1d526d2,Anthony Simmons,2024-12-09,265.34,Libyan Arab Jamahiriya
+f378c0f7-f6a4-42dd-b1c4-a4c81d2f0e8b,Kimberly Parker,2020-07-22,64.76,Zambia
+2f697ffc-0685-4774-83f5-51084defff65,Don Guzman,2020-03-01,192.39,Czech Republic
+c0b0ea55-fafc-49ed-9d58-7161aaa3e354,Kyle Castro,2025-06-23,275.87,French Polynesia
+bd5643fa-313b-4c87-a4cb-2f1055dcc045,Amy Fitzgerald,2020-04-19,323.57,Tunisia
+95351669-ac7e-4e84-b0b9-7646d073472a,Angela Kennedy,2021-01-27,88.91,Grenada
+64d3eb5f-c722-4901-8096-19e269fc3b0f,Stephanie Duran,2025-08-10,154.06,Sweden
+8684b26f-eb78-4476-8cbc-a8bfc0da5e3f,Jodi Myers,2022-08-26,265.49,Tunisia
+ab98ab8d-4ee4-4cf5-941a-f6597c6c9795,John Warren,2024-10-08,458.93,Bosnia and Herzegovina
+0b95fcfe-632f-4157-8bbf-cd8fd291555c,Lisa Johnson,2023-10-29,80.08,Yemen
+99e8de74-36b5-4280-b85b-259e3febcbad,Paul Anthony,2023-12-13,141.52,Reunion
+d99515c4-0363-416d-aafa-74c92b6b553d,Mary Green,2025-04-14,225.13,Tajikistan
+5f5316f9-1ed4-4dc1-af49-3cc2bdc1d222,Beth Moore,2023-10-11,422.73,Mauritius
+835c3fd5-b5d6-40b3-b212-1aea35a62873,Diana Sullivan,2024-01-05,441.54,Liberia
+7504f5d3-e436-48fe-b92e-5c9c39e8305c,Daniel Smith DDS,2024-01-26,153.1,Congo
+0abffa26-8bbc-4df5-96db-707601080b30,Alicia Bowen,2021-08-19,368.74,British Indian Ocean Territory (Chagos Archipelago)
+6d14202e-c30f-42de-80ad-26db51a75a78,Stephanie Mendoza,2024-04-06,308.33,Saint Pierre and Miquelon
+9da420b8-0180-4a9f-826a-78c669b2e597,Marc Cabrera,2023-01-31,276.34,Ukraine
+e9c0d4ff-96f0-4587-b892-a804ce31a637,Rachel Cantu,2022-03-27,108.79,Togo
+b90f0cbb-d0cc-45ab-a714-d01fea60ebad,Aaron Taylor,2022-02-28,81.19,Paraguay
+08ec4318-de3e-4ef6-8ad2-3238ebfb70a3,Mandy Anderson,2023-03-12,497.2,French Southern Territories
+a8c82a88-5a6d-42f4-97dc-52cf43c2be1c,Danielle Stephens,2025-03-05,328.62,Myanmar
+46c34ae9-853d-433a-945c-905a6dcf751e,Steven Johnson,2021-12-23,83.13,Nigeria
+c4252f54-8aac-4078-938e-afd4ec91accd,Theresa Robinson,2024-12-10,219.05,Tajikistan
+7769bee2-1278-4737-a884-288e5564792a,Cindy Taylor,2021-07-17,379.5,Cape Verde
+58039dd9-319b-4ad7-a0cf-3473e7eae15e,Daniel Rivas,2023-12-24,128.07,Luxembourg
+d9da259b-0272-442f-82ed-64767ef09bd2,Steven Miller,2025-07-05,428.83,Argentina
+ec2cd89b-bcb6-44d1-b1b8-566ee4df700e,Donald Chavez,2022-08-09,405.41,Iran
+ea03c70a-9374-4e53-aa40-51a0ffbfe291,Bobby Andersen,2024-02-13,459.48,Kenya
+86337ea6-86e4-47a1-a68f-f612c5c6555e,John Ramirez,2023-09-26,425.35,Eritrea
+c2710ff2-4c99-4049-8cb3-c9cb9cfb292e,Dakota Villanueva,2025-03-13,460.01,Saint Barthelemy
+300a638b-009d-4638-abc8-bef25c9852a8,Jennifer Miller,2024-02-28,183.54,Austria
+fd152a42-909d-4efb-acd0-6d7967333763,John Jones,2020-09-05,167.58,Mali
+4cfe24e9-32c2-463f-9272-0d1213ec51fd,Shannon Gilbert,2021-09-09,246.89,Malta
+1d7eedf2-d148-42b0-b16b-a67f1aa22e94,Patricia Lucas,2025-05-04,302.85,Angola
+d3f34d8a-fb66-4073-be27-71872a29e4c8,Tammy Wolf,2022-08-21,231.58,Eritrea
+91493e9a-9d0b-439b-9b5a-cb2afdc437cd,Charles Thomas,2022-05-13,138.07,Barbados
+5f66b312-93b2-49ab-b874-1937cf67e969,Seth Murray,2022-07-24,65.91,Greece
+d24ecf71-3df6-4b66-afd7-f71f27e3d196,Brenda Mclean,2024-04-01,374.1,Belgium
+09c159b9-1268-4d82-8ae1-bfd95bfe4141,Kenneth Barnes,2021-06-18,419.63,Zambia
+4ab56f40-f5db-4ea4-bfe0-0a1bdf264721,John Miller,2021-08-20,109.65,Vanuatu
+a39f9c44-74e8-4b25-b388-ac5aa3e59808,Eric Roman,2020-06-04,86.16,Benin
+9a63f100-b9fc-4171-812c-71261f624791,Tony Reyes,2023-12-02,277.56,Lithuania
+0472eb3a-edc3-4a03-86e4-af4f93253114,Kimberly Moore,2025-06-25,494.12,Pakistan
+43bf29aa-0f68-4208-9c11-0b0da7344e00,Tiffany Smith,2022-03-27,312.08,Nauru
+7d1fcfbd-a351-4621-ae75-ac88a188bf7c,Jared Ellis,2021-03-06,455.4,Malaysia
+e822ba05-a7b5-4f28-a6d1-ebdc0f457bf4,Jill Young,2021-05-04,320.11,Bhutan
+45c55186-ac5d-4d41-8210-146bc18b31bc,Christopher Torres,2025-07-22,430.55,Mali
+0d346bf6-974a-4d82-8a6d-1b2ad78b410e,Nathan Johnson,2024-06-09,94.2,Chile
+d2cd4581-78a4-4147-930c-87af6734755d,Tracy Parker,2023-06-03,255.26,Burkina Faso
+eafd2bc4-238c-4ea8-b048-a55c17b2add0,Amy Rice,2021-05-20,66.24,Holy See (Vatican City State)
+aade2b68-c0d2-4b60-b801-3b3dc1f784b6,Pamela Bailey,2022-11-24,110.52,France
+236a01cf-5546-4b3a-b60c-7ec77a0492f6,David Hardin PhD,2020-11-21,496.12,Guatemala
+8cbb3b77-a41d-4f03-a9d3-75a6055718f9,James Parker,2025-08-24,490.35,Georgia
+a7399a59-03d0-4c62-bde2-d8ad0facc7dc,Russell Dunn,2020-07-09,312.99,Sierra Leone
+7c7ef95b-0e81-439a-aa55-388427a4f948,Sara Jones,2025-07-08,168.63,Panama
+959cf8af-d98f-4191-93e3-6a11e515e83f,Annette Cook,2023-12-15,28.26,Egypt
+67a0429f-fec6-411a-b68a-6f96d8ff0cfb,Karen Anderson,2021-06-08,361.13,Lithuania
+42e3b896-c9a8-4ff2-bbf7-509999db2e4a,Jessica Simpson,2021-01-28,372.34,Colombia
+7c8d7472-fa26-4a6d-9883-e64f962e2af7,Mark Schmitt,2024-01-02,437.6,French Southern Territories
+e7d95def-0505-4ec3-8708-5a6630d01d9e,Jessica Morales,2021-10-08,67.44,Lebanon
+511102f1-08fb-4463-a6d7-505fd12e300b,Jon Macdonald,2024-01-20,347.22,Korea
+ca788017-e04c-42cc-8025-416e49f57b14,Kevin Davies MD,2023-01-13,496.27,Suriname
+a074e879-cd7b-40d8-9257-07d4107a2277,Mary Mcfarland,2023-10-25,347.77,Chad
+8334d105-d687-48a7-8285-7710e3a3bda2,Shannon Gutierrez,2025-02-26,74.01,Sri Lanka
+fe763140-fffb-4b10-a4e8-378281e7f849,Jessica Murphy,2023-02-15,164.91,Lesotho
+012ce12d-cee9-47c0-a930-f4e8ef80ee99,Elizabeth Wright,2024-10-13,248.58,Martinique
+d8fbc9f7-dbae-4a0a-bcfe-38d872af429f,Michael Cook,2024-11-27,224.13,Iran
+5d3236eb-ffab-4ac0-9d05-35ddf4d09680,James Roth,2020-07-14,469.45,French Southern Territories
+760de704-ed1b-4809-9b92-69a64d93d48d,Dr. Rebecca Andrade,2020-11-06,428.81,Denmark
+88c51937-ff4f-42cf-98d4-bd70cdd64f7d,Thomas Baker,2022-03-06,95.34,American Samoa
+87a6766d-20fe-4ba6-96f3-b6121b2f14c2,Lori Owens,2024-11-12,81.39,El Salvador
+50200b0d-0d29-4ed6-8e21-acf45c115688,Tyler Sanchez,2023-08-04,421.22,Greece
+88337cf7-9de4-4ea0-acb5-06e3bc3b2288,Elizabeth Hernandez,2025-05-08,63.46,Cote d'Ivoire
+e3f9e633-4d5a-4123-85d8-731035781958,Steven Ortiz,2022-04-10,411.17,Hungary
+a1d12232-2b08-475d-b57f-864ca3dc3943,Travis Banks,2023-04-11,146.26,Dominica
+dbde716d-029b-4430-bd9b-2738ff515187,Dylan Hernandez,2022-04-20,480.41,Gambia
+63c2e2bf-463c-4b83-9e94-9746da2f63c6,Jason Richardson,2025-05-02,88.69,Falkland Islands (Malvinas)
+868f54d1-066c-44c5-b2c9-7651ed2dda64,Danielle Walton,2022-05-07,135.97,Suriname
+fa4fc1f4-2751-4586-8472-a508ab4039e3,Mr. Brandon Brown DDS,2024-10-11,365.1,Myanmar
+0bb8b423-740d-4179-b089-d2cc711b110d,Donna Watkins,2020-04-01,446.13,Philippines
+6cdfab7a-0d9d-4829-a642-2d412621e2a9,Debbie Cantrell,2022-10-25,194.51,Chile
+abd6da1c-83c3-475e-ad69-0d68a049b37b,Kristina Marshall,2021-10-09,52.35,Czech Republic
+7b4f22df-7a56-42c2-9447-df0e1934e7e3,Kathleen Crosby,2025-03-05,347.1,Macao
+2043bee7-6c06-42db-a9fa-874c2426345e,Kevin Robinson,2020-11-09,376.82,Burundi
+aa9eaaed-8d8a-4185-8b89-804ce36f00a2,Joshua Estes,2020-07-29,242.4,New Caledonia
+7acc1349-ff03-4787-a315-8d4d12efaa15,Susan Walters,2021-07-01,113.39,Czech Republic
+d7d5266e-77db-4f58-a76e-7d66a2459ee0,Mary Yates,2020-09-07,349.24,Guadeloupe
+bc27f5b2-3970-4c8e-b88f-71ed6acf30cf,Alexander Rubio,2020-08-07,452.55,Mexico
+3f10c16d-90fb-468e-9c43-ce58352a4c0b,Joseph Williams,2024-04-19,416.54,Nigeria
+4b1f2765-0194-41e6-ac10-3916b7852a59,Aaron Cox,2024-01-12,20.03,Svalbard & Jan Mayen Islands
+c07e23fc-7df5-4369-b9b8-421e7034d9cc,Lisa Greene,2020-08-27,35.77,Antarctica (the territory South of 60 deg S)
+309953c5-0893-4963-8735-5815c15684f0,Steven George,2024-11-12,327.9,Palestinian Territory
+fcd3f00a-217c-4210-be79-3b832fefbbbe,Chad Hickman,2022-01-16,322.98,Barbados
+ad27323a-3cf7-4306-891d-d171fa8ff2a3,Karen Villa,2023-12-27,269.84,Marshall Islands
+054b90f3-84ce-4aa2-b47b-b8ab87357ce8,Michael Gardner,2023-05-27,420.88,Angola
+8ab9876a-c6ce-4ed3-ade9-25bd54743650,Brianna Gardner,2023-07-05,345.79,Haiti
+6045d018-d4d0-4864-9fe8-c02b1aedd8a1,Tammy Bennett,2024-06-04,450.05,Morocco
+703a0ca5-699f-44a5-b541-cc5f422923d3,Emily Boyd,2023-08-06,121.84,Burundi
+370e260c-b1a1-449d-8188-7f8d4fb4f5e3,Anita Murphy,2024-12-01,231.69,Ireland
+6960c3bc-571b-4c29-8429-abb1e5150fcc,Derek Lee,2024-07-27,226.58,Djibouti
+0ac0a013-8bda-4b2f-873c-4d8207c19b61,Kelly Hubbard,2023-05-31,138.21,Saint Martin
+21b55cf5-7a66-4325-bf23-0e490b656417,Matthew Hill,2022-10-03,119.02,Azerbaijan
+dcbbd674-446c-4e2d-993f-a99b9cf3af45,Karen Townsend,2025-03-25,443.23,Rwanda
+da7aa2bf-cae2-4747-a4e5-365356562212,Russell Johnson,2024-09-10,234.93,Cambodia
+73b9eb95-a632-4490-9801-96871509adc0,Jessica Hardy,2022-04-30,337.48,United Kingdom
+a9210e14-279c-4282-b216-5b769d14869e,Eddie Barry,2023-07-31,345.2,Isle of Man
+328e87e7-e856-446b-9474-ff3cac3e10e2,Tony Williams,2024-03-04,10.01,Martinique
+7ca4a29e-82ed-405b-aa6d-927f5d7427da,Jon Hensley,2022-01-21,253.87,Russian Federation
+cabecf4f-10bc-454b-b0b5-16f6a832d2ef,Michelle Jackson,2023-02-19,60.29,Solomon Islands
+e081b396-b584-4ef8-ad10-bcad4195e406,Scott Mullins,2024-02-20,318.12,San Marino
+ef788856-95c5-4bca-8e7b-b7135b2b28cc,Jamie Torres,2020-02-22,84.25,Ecuador
+f3340442-a5c4-4b72-abac-8d3ca13e3345,Sara Snyder,2024-05-01,242.46,Northern Mariana Islands
+1370a0af-b342-4ca7-a50c-79504bed3f4d,Danielle Cruz,2020-04-16,109.33,India
+24e0385b-3df1-4ecf-a08e-529576c9879b,Jeffery Sellers,2022-12-26,191.49,Vanuatu
+af02dce9-9d62-4a5b-ab35-4fc4dbdb2d67,Nicole Adams,2024-10-26,225.58,Burkina Faso
+0120a46b-009a-4da0-b9ca-97e7341e4ec7,Tiffany Flowers,2021-08-04,181.41,Guernsey
+0194876c-4e13-40e7-a26e-ce1cf1a689dd,Leonard Howard,2025-05-16,190.57,Belgium
+75d2cae1-8d99-4f87-a119-bfea9cc75594,Teresa Thompson,2024-09-27,305.25,Bulgaria
+181624ad-4d5f-4c6b-9409-24496adc6d0c,Theresa Nelson,2023-10-10,317.09,France
+e278cca6-9be6-4408-bd4f-58933b78b9b4,Katherine Hughes,2020-09-18,197.52,Saint Helena
+0419e3e6-f03e-45ba-a6e0-8fdb069a5d4c,Matthew Harris,2023-12-03,23.24,Turkey
+b5086591-5a7d-4ce4-b794-7e87d48b2888,Anthony Turner,2020-08-12,406.85,Antarctica (the territory South of 60 deg S)
+3f450315-3322-48a6-9f0b-db71789e61f6,Kenneth Ward,2022-09-07,167.39,Tajikistan
+1b3ed102-d155-4f7c-9b17-3ef0e3993ec7,Mark Smith,2025-01-31,157.79,China
+fada546c-517c-4fc5-a4f3-f999bb682b68,Maria Guerrero,2022-07-31,393.04,Lithuania
+8019333d-4284-49ac-9932-bc04cd1a8cb8,Jasmine Moran,2022-09-15,158.89,Andorra
+0f4a2bb8-8284-42d0-9ae0-bf5407ec61b7,Richard Rodriguez,2022-03-05,439.06,Papua New Guinea
+64e07f9e-8aba-4d21-b8b6-5b42b2591237,James Thompson,2022-11-15,363.29,Bosnia and Herzegovina
+cb618572-4e04-45e1-9ed9-1cf4ef53d5a5,Christopher Butler,2021-04-29,371.11,Argentina
+dcad2960-09bd-4cd5-a608-88c7d619b02f,Richard Patton,2022-05-21,265.91,South Africa
+ac393dae-50b2-4206-9d2c-2570b274a702,Robert Garcia,2020-05-14,210.37,Saint Helena
+40aa28ec-d187-4993-9564-6246efa3b17d,Tiffany King,2023-07-10,227.09,Slovenia
+a047732f-69ff-4038-b598-5bedf6bd24e5,Lacey Lewis,2021-09-12,213.62,Mexico
+49d82df2-c5c7-4ff2-a698-66439268f28b,Joseph Martin,2024-05-27,182.2,Zimbabwe
+ee9c0afa-82fc-4652-836b-41903d8b9ec0,Ashley Walker,2022-08-20,322.92,Liechtenstein
+ccb4cbfc-36c4-45d4-ab59-06582aa5af9f,Jennifer Lucas,2022-03-30,149.89,Bolivia
+9374085f-cdac-4b7c-a77b-7896fcc5a71f,Heather Brown,2025-08-08,380.4,Guadeloupe
+e62ac154-2a06-4d31-afea-0942d2318d5a,Ann Harris,2023-07-06,442.34,Comoros
+c6b377c4-229a-481f-9179-4b8d342dffeb,Tiffany Collier,2024-07-19,391.95,Iran
+4fcaa029-3453-4d44-abd0-64647873fb9c,Hunter Johnson,2022-01-04,386.1,Armenia
+a8fce69a-0bb3-4d53-94bf-dac399e3159d,Mallory Davis,2024-12-18,252.21,Netherlands Antilles
+f79de397-9d27-42c9-b648-f93e86549c8d,Miguel Hurst,2022-11-25,13.82,Burundi
+6dfa460b-eb8e-451a-bc70-688b880c969d,David Peters,2021-08-19,300.24,Gabon
+45dec9e3-9eee-4ed0-add8-cb6cce23da6e,Maureen Williams,2025-03-31,267.31,Vietnam
+c51ae782-1dc0-4971-aed5-57a7523cb64f,Christopher Chang,2021-07-15,279.25,Togo
+2edce422-e290-41fe-b221-5cadf4013f39,Lisa Lawson,2022-10-25,27.76,Bulgaria
+62310aae-aa99-439b-b9bc-13f304b445dc,David Howell,2023-06-04,94.05,Syrian Arab Republic
+fd74b90a-cdee-4093-9ee8-53a512b4f233,Luis Lindsey,2022-04-12,259.69,Poland
+73af66d3-030f-40a5-a6c4-d3b8b30a5183,Marco Baxter,2020-10-12,215.36,Austria
+a28300bf-99c5-49f3-a022-c3c773f14c96,Christina Sawyer,2021-03-05,247.56,Barbados
+c6795672-fb6e-46c1-8e2e-23b09fdc3327,Karen Perez,2025-01-01,307.36,Thailand
+8d5d1f4e-3a2d-4957-949b-33969271bf35,Tracy Ferguson,2020-01-29,334.27,Israel
+6f409376-d4d6-4b8e-a3a3-21151119574b,Matthew Smith,2021-02-28,478.64,Rwanda
+ee05a66c-1519-4d75-8f4d-e646d882c122,Nathan Fisher,2023-05-04,446.87,Vietnam
+ee97432c-f763-4891-a89b-d27143e0d4ac,Ryan Smith,2020-08-21,72.15,British Virgin Islands
+042aae20-d215-46a0-ba71-498981b0ace8,David Johnson,2022-07-11,466.65,United States Minor Outlying Islands
+3c99dac4-c70a-4aac-9211-f4dcca36f2ae,Tracy Schultz,2025-01-16,12.1,Senegal
+48eb26bd-bfae-4c9b-8bdd-10ec19435de2,Tammy Underwood,2021-03-02,141.02,Congo
+0025d376-18fc-4d81-ae84-d887bd002ebc,Mariah Li,2020-03-14,290.78,Jersey
+aa6b5507-0383-42c8-8efa-917636f56fe7,Evan Arroyo,2023-07-07,375.85,South Africa
+ebc73536-f3de-4fd1-b009-ca28013e1626,Sharon Cobb,2022-05-22,252.97,Morocco
+ec5642f4-3a14-4a48-9fac-ad0e1c4459a0,Christopher Miller,2023-09-04,27.92,Guyana
+1c90284d-f101-4f74-b39e-8679ed6b74a0,Jessica Bradley,2020-04-04,95.55,France
+35df1202-b949-4cca-b3ce-d0d5ffd7cdff,David Washington,2022-10-24,79.11,Andorra
+57d0317a-d5e9-44da-be12-6fa99ca45ca2,Bethany Lee,2021-04-25,228.05,Eritrea
+2ce882c9-278c-48d3-88f6-94cc1413faac,John Finley,2025-08-24,444.67,Sri Lanka
+4dcf3151-573c-4f2f-a961-5c1ff5afe177,Jared Drake,2022-07-21,20.69,Cyprus
+01388418-9224-4bc0-8274-faec644aae91,Logan Williams,2020-05-11,284.86,Saint Vincent and the Grenadines
+8e735510-afb1-47e2-b9b4-b4ef66c58e38,Raymond Fernandez,2023-08-11,306.07,Lao People's Democratic Republic
+9cbfddaa-ce16-4115-beaf-ebcb7ae02db9,Deborah Lam,2025-07-12,474.09,Guyana
+22cd5766-56c5-48da-8ac0-dc626312883f,Timothy Gonzalez,2021-12-01,377.56,Belarus
+0b7af6b1-3dbc-4ca0-8ae0-26026aa8fdff,Daniel Snow,2024-02-15,308.82,Timor-Leste
+9b313c47-565e-4f16-beca-6c9f6ac45e0f,Patrick Myers,2025-03-06,497.1,Namibia
+fbc71e54-99c6-4deb-9c81-0e2d08c43786,Debbie Romero,2021-02-13,180.89,New Zealand
+358587fe-252d-4e4c-858e-187978ac9a6c,Kimberly Lewis,2024-06-07,289.36,Burundi
+975638f0-08bf-44d6-8f02-74386345adab,Marisa Love,2022-09-17,416.42,Ecuador
+f6dc2618-b126-4de5-9c02-527a25e6abdf,Erika Potts,2024-08-02,132.68,Panama
+51fc0dc3-1b1b-4811-825c-b093690dc700,Elizabeth Jensen,2023-02-10,279.61,Guam
+505fa19e-3fc3-4ea6-bca5-baa6e4774b69,Angela Stephens,2024-05-07,266.57,Cyprus
+38b78d03-ff47-423a-a03f-8573062810ce,Samantha Jones,2022-09-29,218.49,Korea
+81eb8695-02b5-4c43-a0d5-b1206dcb5d18,Stacey Barrett,2022-04-01,289.85,Bulgaria
+c0105a0e-3611-4e0f-be11-9712b9d9ccde,Adriana Hopkins,2020-08-23,175.95,Niger
+93bdc81d-e4b7-4438-b337-bc15d023f793,Amanda Smith,2024-03-30,189.45,Nauru
+25eaecca-6987-4d3c-b106-d6495b842020,Sherri Castillo,2022-11-14,353.21,Sri Lanka
+3819649f-8619-422a-8f62-d63d6117d63a,Michael Taylor,2024-12-13,452.74,Maldives
+d767c1d9-0af7-4095-bbb2-74a6490ad74f,John Luna,2021-06-21,332.69,Gibraltar
+10b8565f-14ee-4abd-9b3d-bd86a67793f9,Nathan Lynch,2022-07-20,44.86,Hungary
+8225dd70-296d-4931-8e26-a388aeeed287,Paula Walters,2022-06-02,401.38,Christmas Island
+c851d10a-f6fe-4d73-b634-6644a3073683,Cheryl White,2021-06-01,81.96,Spain
+a5cce179-3540-485e-afed-e635ce51a5ee,Bryan Herrera,2021-10-25,474.05,Saint Pierre and Miquelon
+155cde38-56b8-4873-bf82-6397a8055cd7,Patrick Schneider,2020-01-14,30.32,Botswana
+0a62368b-76ac-4ff0-b6c8-2289e74121a5,Colin Mcdonald,2025-06-28,201.62,Zambia
+5cc0c002-d7d3-44da-bd3c-9d43075b4dbc,Nathan Barnett,2025-06-07,360.65,Italy
+0f718bc5-422c-445d-9384-94b7a6f4ee1c,Christopher Chen,2025-06-03,274.56,Albania
+5f73b75f-f0fd-494f-b24d-9315b06637f6,Robert Alvarez,2022-01-06,377.66,Palestinian Territory
+45ccebb7-0930-4c99-907f-45b60bb3df3e,Deanna Tran,2021-09-21,330.71,Cook Islands
+e6322c46-a976-4c77-9b39-ad7f02c1a089,Andrea Scott,2024-12-26,110.69,Venezuela
+f7d6b704-19f6-408b-b64f-075c47371965,Rebekah Peterson,2025-06-04,432.79,Iceland
+a8a5cb78-a257-484b-a4e6-2dade89f5b1d,Heather Bartlett,2020-06-22,413.62,Paraguay
+bb3b693c-ecc0-4d48-939d-6b132f301c3e,Catherine Jackson,2020-01-20,354.55,Belgium
+99e8019b-6b41-4bef-a511-b0e3f1f244c4,Jennifer Ward,2021-08-10,185.01,South Africa
+b5185561-c236-4835-bf04-eba3edb09adf,Yesenia Ross,2025-08-05,192.48,Afghanistan
+e43fb945-4db7-4017-851e-3deaa22c12be,Alicia Perez,2020-10-26,102.53,Cambodia
+e1509204-dbdb-4228-a5eb-a4e81813247e,Michael Lawrence,2021-11-23,239.93,Madagascar
+5423f54e-d7a8-4fea-ad91-c1fd1a6c46a5,Aaron Hall,2021-05-16,269.17,Canada
+c0afd779-9cd9-4eb1-ad5a-155a6f9dac48,Connie Alexander,2022-12-05,57.42,Nauru
+127afedb-6b7c-4b6c-8c09-aca5f1432127,Deanna Johnson,2021-05-10,148.02,Burundi
+da1619fd-2b86-451e-b52e-95c67aa4641d,Miss Victoria Paul MD,2023-04-12,267.77,Belize
+e10d7c5b-7f9f-4b1d-9d4a-c2e7ab28e3ab,Michele Benitez,2021-05-02,482.23,Ireland
+95fe5d77-95c3-4199-8705-a79bccb7eb45,Cheryl Hanson,2021-09-13,485.71,Bangladesh
+a699d6e1-748e-40ac-ada8-1c2d1e5668dd,Paige Wilson,2020-08-21,37.72,Tanzania
+730a26d7-aa86-4a6a-a550-244e36e22f19,Adam Reilly,2024-12-27,310.18,Niger
+fd481edc-1aa5-4f41-a52c-f464be4fedce,Joseph Wagner,2021-08-06,30.52,Singapore
+979ff6ed-a0f7-4c61-b850-55526b3f8528,Jennifer Campbell,2024-09-27,363.67,Tajikistan
+c983b053-9c94-4d34-8b91-01763cc8322f,Jared Ramirez,2022-10-14,402.18,Croatia
+c1778bcb-b7d1-41af-8a56-5e96a5f1487d,Megan Thompson,2025-01-27,49.84,Togo
+f720c610-1f93-4cca-8b96-fea77b511b41,Briana Robinson,2024-04-02,95.55,Madagascar
+e27b24ff-4fac-4031-b4f9-8df0ea40074c,Bryan Lawrence,2023-08-18,259.98,Morocco
+ad96b274-9d19-462c-8f26-b87bdf8b0bac,Kevin Mccoy,2024-07-27,273.67,Isle of Man
+2cacfdf9-702d-4c40-a30b-6e9faf91e23f,Katherine Byrd,2022-06-16,334.76,Armenia
+4bd86ea9-7ba9-4e9c-8810-a4d47b67516e,Sean Foster,2024-10-03,108.77,Costa Rica
+0d0c6443-2399-4283-90f2-ee51fca506d4,David Jackson,2025-03-09,144.82,Barbados
+c7d67dba-877c-4657-98c8-ee314554428c,Crystal Miller,2020-07-22,16.36,Reunion
+e560d5d4-3438-4de1-96c4-716b588fb44a,Ricky Costa,2022-09-29,131.79,Brunei Darussalam
+b448ed73-0bd5-4a12-b4e4-b2d58f5526c9,Ann Davies,2020-06-24,331.02,Cote d'Ivoire
+4eed16b1-ed2b-47d0-a411-e72f165f3311,Daniel Ferguson,2024-12-09,452.91,Kiribati
+c203856f-d953-4a25-9a55-eaa4a813e8c3,Walter Powell,2020-04-28,272.89,Luxembourg
+5bd5aeef-27c9-49d0-ad02-23c4a6a864b4,Joe Benson,2023-01-02,158.88,Moldova
+97fefe6d-4515-4199-aebf-4cb657dba88a,Alicia Smith,2024-12-18,440.18,Libyan Arab Jamahiriya
+6c8e4ef0-2894-4372-a9fb-98c02944104b,Tina Ellis,2024-06-30,487.06,Israel
+3f88f991-203d-4b99-8dd9-188d8dc9877e,Madeline Rivera,2021-08-07,493.38,United States Virgin Islands
+7b881004-7bc9-4ede-b0d6-add14ae2d560,Marilyn Smith,2021-12-31,180.22,Poland
+e6c2645f-8bec-4ffe-9721-f2ea99af7968,Zachary Boyle,2022-09-11,388.05,Brunei Darussalam
+9c89d7e9-8d6f-48e9-be78-52deae7bf4fc,Brian Carney,2020-05-15,464.21,Puerto Rico
+6fe18910-6248-4491-ad27-171ad37afea9,Tamara Bauer,2021-03-24,403.26,Somalia
+d814e033-4ae4-44e4-bff0-eaf7f8e18ec1,Robert Hall,2022-10-30,451.77,Bahamas
+f305f06e-abdd-41e1-9139-4e120e9f8542,Steven Jones,2023-10-18,294.53,Poland
+5657fd28-4fd0-490b-ac45-cea727f3db5a,Adrian Robinson,2024-07-05,373.16,Algeria
+58619ace-3f26-4845-9230-845b6abfc785,Carol James,2024-04-04,316.39,Jersey
+9477f46e-7cb7-468b-a702-f131f1d95e99,Paul Becker,2021-11-30,12.39,Kuwait
+41cd0bbd-8ac4-48fc-b48b-00dfe38a23c4,Brian Nguyen,2023-11-02,113.4,Lesotho
+69f1e1d1-b1d9-42f2-9a70-dc5566742073,Marie Carey,2025-01-26,93.19,Slovakia (Slovak Republic)
+bfc5839f-a21a-4342-a1e2-418c8df5e73b,Gregory Kelly,2024-08-13,320.01,Ethiopia
+d1c1be6c-05cc-4856-927b-a3229057f469,Kelly Norris,2023-09-01,94.97,Cote d'Ivoire
+364a5bca-be87-48f1-adc6-fd8b640436b9,Emma Wright,2023-04-04,24.04,Palestinian Territory
+67cc4500-715e-488f-bee3-47d6ebce324e,Amanda Garcia,2025-07-31,90.75,Mali
+1e9efcea-2ac1-4d21-b6b3-7bbddf055e8a,Maria Joseph,2021-07-12,408.32,Lao People's Democratic Republic
+43807e98-3e08-4a49-b21e-f24929780cf8,Jonathan Santos,2020-11-27,153.06,Portugal
+00c7aa12-4724-4851-af29-aae71938f16a,Alyssa Garcia,2023-12-19,231.29,United Arab Emirates
+158580a8-bffd-4395-99e0-eb60514b679c,Julie Murphy,2024-06-21,136.53,Trinidad and Tobago
+6e6c9673-47b5-4665-b36e-4aa2578e09d4,Marcia Sparks,2022-03-22,302.28,India
+ff7b3ec0-3da6-4879-b583-4827308d3417,Christopher Moore,2024-08-02,465.59,Moldova
+4298fab9-d22b-4414-a431-221932edfee5,Mary Garrett,2021-12-23,297.39,Togo
+61b8ec61-7053-49d9-829e-c6f30b083841,Andrea Ramirez,2024-10-21,42.46,Korea
+fe530e01-d698-4ea0-b97b-10f538224a35,Samuel Acosta,2023-06-29,432.98,Tonga
+d9aa06d0-fb0e-42ee-b57e-501014c614b8,Mr. Daniel Anderson Jr.,2021-01-13,454.15,Iran
+4e8dc574-5043-46d9-92de-e6b7446a2114,Jonathan Johnson,2023-05-19,338.72,Seychelles
+9424ea27-0f34-441b-9808-f34ed1f06b12,Alexandra Martin,2022-07-10,117.63,Taiwan
+359e0803-230a-4051-87dc-2c0ccf4d268e,Mark Butler,2022-07-26,457.23,Cote d'Ivoire
+6bef7997-2d5a-47b6-9a0c-9c818a8cefbe,Tina Sanchez,2023-04-12,218.06,Greenland
+26150653-5f09-43bd-bc55-bb36f56d6974,Mark Lyons,2024-06-08,111.23,Saudi Arabia
+8a5481d9-7ea5-4e51-b9dd-8fd0df29cb81,Jesse Howard,2021-08-15,300.78,Marshall Islands
+57c76fcf-97c0-47ed-a210-d42edd6c4156,Erika Barry,2023-06-23,209.48,Norway
+e283b8cf-32ed-48e8-8d61-77f3101fb331,Patricia Robertson,2021-02-06,285.34,United States of America
+237b83cc-f898-4be5-8aaf-c2c7d6e18a20,Malik Wilson,2024-09-28,281.14,Costa Rica
+a52b3af1-5ba8-4059-b8ec-1a0b598840a5,Jessica Fisher,2021-05-23,431.76,Guadeloupe
+c45bec3a-f7be-4fac-8bc4-17996cfccaa6,Gary Lyons,2023-06-26,493.98,San Marino
+2d5a307a-c550-4eb8-8014-ff2289445248,Diane Whitehead,2020-08-03,412.32,Philippines
+74b64f88-3a4f-4d60-a96d-f2d75e75b0d5,Victoria Ortega,2024-05-01,388.47,Burundi
+ff35438e-212f-4d78-ba8a-4cf1bd0026f5,Jamie Richardson,2022-11-05,38.66,Zambia
+b3cfdd88-1546-48cf-b72f-3a9520bce58f,Daniel Mclean,2021-03-08,379.37,Lebanon
+25627ad4-d706-4ba7-85c9-75f0e4be0aab,Karen Clark,2025-07-08,65.43,Jamaica
+47e9a6c9-2e1c-46c1-9bce-19fca71cd39b,John Cross,2023-09-12,450.55,Korea
+0763ab31-b3f6-4342-9d1e-2e3610ab870e,Russell Ramirez,2022-12-15,189.91,Anguilla
+63bb059e-e124-49d2-aa10-7a80b0bc19fa,Mr. Joseph Mills,2024-12-27,244.76,France
+2437f8d2-4e12-452a-b957-1f598538fd17,Tyler Murray,2023-09-06,262.28,Vietnam
+7f5edefe-f2f0-4012-8c70-4dff3bc9c322,Darren Harris,2020-08-12,104.9,Armenia
+399a0c3c-1fbd-4f00-99aa-6068d6bca095,David Skinner,2023-06-08,410.55,Colombia
+0be06537-6a8b-47b6-a1e6-d27347702498,Christy Johnson,2022-09-15,250.4,Solomon Islands
+a26f6459-fe17-4353-b0ef-ea128663cc6b,Jessica Howard,2024-08-27,82.33,Bulgaria
+e0c91582-57ee-4e08-bddb-47884137301e,Michael Nguyen,2021-02-10,329.33,Holy See (Vatican City State)
+79a513ad-dfb9-4786-9f8d-d7e2a5dfc2d6,Hannah Little,2023-05-07,344.91,French Polynesia
+5b2153df-ddf5-4040-a8f1-d830351df021,Christopher Perez,2023-07-26,303.28,Tokelau
+33ea3ca8-a760-4e6b-bccf-62479080a0df,Katherine Graham,2021-09-29,104.57,Vanuatu
+15ae7ed4-538b-43e0-b11c-8af9177bc164,Joshua Hunt,2023-04-19,90.08,Marshall Islands
+425f9e8a-fbcc-4d2f-835a-0e57c5e23917,Amy Payne,2025-03-30,105.87,Swaziland
+2673fd22-dfd9-4664-bff2-a80ba4b8976a,Kevin Myers,2020-01-04,294.54,Tajikistan
+ba801cbc-59fa-47c9-a5d2-95edd95db219,Emily Rosales,2021-10-30,302.48,Sudan
+565707dc-1307-4ba5-a04b-87734ae870fc,Joanne Gonzalez,2024-10-12,430.29,Slovenia
+ca6c49b0-0303-4116-99f4-d76ac4cfc020,Diane Smith,2021-11-25,137.67,Belarus
+682bd531-cb5a-470e-8ab6-d5dc97ab7a7f,Meredith Neal,2025-03-11,38.12,Western Sahara
+cf5b4481-4335-4fcf-9fc9-19efe828819c,Carrie Rose,2025-04-08,400.7,United Kingdom
+5612af18-58d1-4d2e-b6ee-cd55c73a1923,Eric Harrison,2025-05-20,96.83,Gambia
+5990501b-ebd1-4001-828d-cf1a97b20578,Nancy Gomez,2023-12-07,438.91,United States Minor Outlying Islands
+d09bf5d1-8051-4bf6-8268-d097da8787c8,Gary Allen,2024-12-06,467.21,Cameroon
+571ad484-ad53-4fbc-ab5c-0077fd392207,Anna Clayton,2020-10-12,256.37,Bouvet Island (Bouvetoya)
+1da57c8a-c8da-4c8d-8f8d-191f8e09cc6f,Adam Hopkins,2025-01-09,436.13,American Samoa
+806452ca-4eaa-4ae8-befe-af4d60cd5a08,Jessica Maxwell,2021-09-05,452.89,Fiji
+aa595702-9183-47ed-a1a7-c466102ee7cb,Julie Villegas,2023-03-11,355.05,Algeria
+da4f13bd-4908-413e-b046-0a1a0deb06ac,Victoria Davis PhD,2025-06-05,427.15,Svalbard & Jan Mayen Islands
+744cb1d8-c28e-4281-8a33-41f4028af1c8,Isabella Lopez,2024-06-05,359.91,Yemen
+1d16b03a-228e-4b92-a2dc-90b67afd6d6f,Ashley Soto,2021-04-11,415.9,Jamaica
+100e26c2-0091-465c-844f-51cdee9e80aa,Rita Baker,2021-04-18,424.07,Singapore
+5d36b4b4-084d-4d57-aa57-6b06a410af0f,Taylor Brown,2024-02-16,201.3,Uzbekistan
+f2936054-a8c6-4a81-afb5-6390e769c87c,Joseph Goodwin,2023-04-02,473.63,Gabon
+07fb52c1-51ed-42be-993d-71588801eeab,Kathryn Johnson,2025-02-25,234.3,Azerbaijan
+4e8bb770-63c1-4d74-9f9b-1c624320e02d,Ms. Carrie Pacheco,2022-12-28,22.39,Timor-Leste
+03ec4fff-b2f2-46b8-bfbe-f0f2648e1920,Matthew Wilson DDS,2024-02-07,379.63,Kenya
+28f0d86c-b777-4dda-9973-35fbf8d8450c,Kimberly Harris,2024-07-27,70.99,South Georgia and the South Sandwich Islands
+9b0559f7-d637-4919-a039-0d1d8bd03a9f,Sarah Collins,2022-11-05,475.91,Taiwan
+c7c54dda-147b-41d4-b615-ec48965bd023,Samuel Santos,2022-08-08,169.62,Hong Kong
+30247790-7f89-4c1b-870e-05a439584062,Eugene Farrell,2025-02-13,136.72,Martinique
+a1b1cadd-e618-4704-bbb1-403f01c42edc,Chad Jennings,2020-11-20,257.49,Saint Lucia
+af76f43c-0d8d-4436-b1a2-6d7a41fa40fa,Christopher Carpenter,2021-07-09,360.99,Guinea-Bissau
+3d9abe98-3fbc-4280-918a-d8e3bf5128a5,Ricardo Taylor,2024-06-02,397.27,Croatia
+b5d262d8-9d5b-4412-9131-71cf1bcaf081,Samantha Rivas,2022-04-20,101.61,Colombia
+46cbada0-3f9a-4f3e-baad-8209f71b48d2,Caitlin Alvarado,2020-08-28,82.73,Cote d'Ivoire
+a0169af3-9119-465a-a21f-e1f6be4c4bcf,Ian Simmons,2020-07-25,485.11,Myanmar
+24f93d69-b97a-43e1-8705-205a246f65a2,Rodney Martin,2021-10-21,34.26,Burundi
+2713a232-f70a-4f03-9c55-e539572de8fa,Jamie Berg,2024-01-10,415.88,Hong Kong
+478aa615-d539-4c41-9e8b-5f91d79d0a97,Pamela Rodriguez,2025-04-23,171.39,Namibia
+dc60e8b2-c747-4884-b1e7-09883ec71e80,Patrick Ingram,2020-03-08,300.08,Costa Rica
+60b94dc3-f8e1-48c7-af2c-8c7f9094cc67,Jennifer Brewer,2023-09-08,120.98,French Polynesia
+93e7e103-3796-45d2-95d1-0c484ca15c75,Matthew Potts,2022-12-15,18.33,Spain
+0e5506c5-aa41-4367-b0d9-824c280487a0,Corey Mitchell,2020-06-11,344.46,Guam
+22506632-68c4-4d57-90c0-899f4ff7e4f2,Mrs. Angela Curry,2025-05-30,98.71,Iran
+d47f8402-5818-4da4-a012-f3d9a2ffaca8,Juan Morris,2024-08-29,444.68,Palestinian Territory
+665cb059-cd2d-465f-a790-5a773d195800,Juan Alexander,2023-10-27,336.03,Timor-Leste
+5c7b814e-ad1b-47fe-a95b-2c229cd8fd1a,Michael Mays,2025-01-08,182.91,Palau
+cb3681c3-c8d7-46ba-879b-463a6936a97c,Tina Wade,2025-07-25,166.29,Kazakhstan
+e215211a-990b-4761-aab8-bbc3dd07327a,Ryan Poole,2022-08-06,460.4,Chad
+b70d1ca5-d167-4ba3-8d76-93064918362a,Leslie James,2020-09-09,483.53,Cape Verde
+a4fdee1e-1f36-4ac7-b039-6fe809fc5518,Elizabeth Smith,2022-07-01,293.65,Saint Pierre and Miquelon
+6ce13ae5-1372-400b-b4f8-e8dd7c6f5926,Jessica Reyes,2020-01-17,67.39,Cayman Islands
+9a7e0ae8-3932-4187-b016-7044aabdf746,Nicole Mendoza,2022-12-15,478.95,Saint Pierre and Miquelon
+2039d05c-fd4b-464c-a692-6c569369a5e2,Alexis Johnson,2021-03-28,375.48,Hong Kong
+c43b24c9-9cae-4ea2-9bb6-01f243182f7c,Kristen Torres,2021-07-28,134.92,Liechtenstein
+ad9f9db3-dce5-44ab-b032-8ebda6d234f7,Katherine Brown,2025-03-20,161.81,Vietnam
+48ca7b65-5c1e-46e2-9178-d71aa4e62c46,Kelly Lee,2023-08-08,285.95,Ireland
+219b7bb6-b76d-45dc-a18a-6ad689407836,Jasmine Snyder,2022-12-10,326.8,Jersey
+80fb9512-f6ea-437e-976e-b59b5ebb3b8b,Benjamin Baker,2023-03-14,396.02,Slovenia
+be51c64a-78ba-4ebf-94cb-b1a3861d5ed4,Lisa Wright,2020-06-15,252.18,Turks and Caicos Islands
+8e2d1354-8aa3-40a1-afb4-a26b40aa50db,Robert Rodriguez,2021-09-29,497.82,Slovakia (Slovak Republic)
+a04c1c7d-a72f-4f23-9db7-a81989ef9f71,Melanie Pearson,2022-07-17,209.0,Bangladesh
+5b5ef2d1-24d4-499d-ad22-bf035c310981,Kimberly Johnson,2025-03-12,346.92,Latvia
+cec840dd-4826-4fd9-ba9e-365c8c5f12b9,Richard Douglas,2021-01-07,32.92,Botswana
+644f4b1a-709d-439e-ae7d-ce927b30de54,Ashley Carter,2023-04-14,468.71,Martinique
+9197c2ed-9179-4cee-82c0-442fed647840,Christina Rodriguez,2021-04-30,168.85,Malta
+1031c3c3-f88a-4311-8ee2-6cf2858bd947,Joanna Johnson,2025-04-01,161.81,Czech Republic
+2dac34ce-f396-417a-8530-742bac15b1d6,Johnny Wyatt,2023-08-24,262.26,Mali
+f6f3fc88-6a4e-4875-8cba-091b9eda8a68,Jennifer Wells,2021-01-20,481.26,Lesotho
+1980dbaa-1342-4957-981a-7bcf76934beb,Steven Wood,2023-11-21,166.93,Reunion
+fa5ef727-f7d1-49fd-9369-1044943f1829,Jason Wilson,2022-10-07,272.8,Mauritius
+5e414607-d47b-4d4c-ad99-c94613f3f258,Mr. David Leach,2025-05-16,267.44,Malta
+d7d81e29-51fb-4094-8dda-8c12f084f7c4,Michelle Drake,2021-08-08,316.83,Saint Lucia
+ec2f908e-6b45-40ce-b57e-06c7562ea707,Barbara Rogers,2021-08-29,252.37,Slovakia (Slovak Republic)
+1f3e0e69-2233-4cc6-ae0e-0edfef5646ae,Sabrina Davis,2021-01-13,382.52,Fiji
+5bf0ec79-23cb-494f-bbaa-28cb6774cc47,Charles Jimenez,2021-10-02,218.8,Kiribati
+39bcfd19-2b09-4ee0-927d-f947fb582aa0,Katherine Aguilar,2023-08-06,40.71,Uzbekistan
+54386878-a580-488d-879c-789dd6bd1e58,Cynthia Espinoza,2024-04-04,344.74,Grenada
+a0ebc9f7-568c-4a2d-b848-1e6f36119a96,Kristen Preston,2023-06-30,228.7,Nicaragua
+849b096d-b743-48dc-98e9-2c62d3ca08da,Colleen Evans,2020-03-30,297.98,Nauru
+fd39e0d4-57a6-47c1-ba20-514fe71d6f14,Timothy Bowen,2020-03-27,32.67,Suriname
+fdf1237e-cbca-453a-9f00-394ea5eadb53,Krystal Sanders,2024-04-25,311.42,Solomon Islands
+70acbf4f-2eb4-4e7d-a784-77225f1d799a,David Mckinney,2022-06-20,203.0,Andorra
+08b991be-07e5-4637-bd82-141696ab6c52,Crystal Atkins,2023-12-09,25.36,Reunion
+2378931d-b128-4376-8580-a780e9dacdfb,Teresa Perez,2023-05-20,381.61,British Virgin Islands
+734ba97f-e077-4eef-b662-563998ffbb4d,Theresa Hammond,2020-09-29,477.76,Argentina
+8133a065-c54e-4544-9f56-85134cc14d0a,Meredith Foster,2022-06-18,255.32,Ukraine
+cfa2fcf9-a61b-4b2c-8465-532156736776,Mitchell Hill,2021-05-14,283.13,Guinea-Bissau
+6bea86bd-6160-438f-9f7a-eae044a97a20,Tom Mason,2020-11-09,478.16,Denmark
+b1d83887-0051-41c5-bf0c-1dbf708fddb4,John Hayes Jr.,2024-05-10,388.87,Antarctica (the territory South of 60 deg S)
+df566699-12b7-487f-af16-bbd6b6b5eb73,Brenda Sharp,2021-08-31,94.29,Luxembourg
+5d1022bc-e061-4bdc-a591-f3624a7972fc,Colton Hughes,2023-12-21,221.63,Georgia
+dd873d26-125c-49e6-a404-f7e0b3c18a52,Dawn Guzman,2021-07-06,222.09,Cocos (Keeling) Islands
+3e269f72-2b24-4bd6-985f-00d0f7893cd4,David Delgado,2025-07-20,311.82,New Caledonia
+d177cc47-d1b5-42fc-ab83-8909f5ee5406,Victoria Smith,2024-07-16,483.45,Christmas Island
+76ed9aee-fc8c-4367-8afe-30911beb52a3,Ryan Garcia,2021-07-17,243.41,Cocos (Keeling) Islands
+dadbad2e-28df-43c6-bd54-7dd58577a403,Leah Bryant MD,2021-07-26,286.17,Faroe Islands
+8e41ea4e-5064-4ff5-96fb-902344a8b597,Erik Harris,2025-04-16,449.86,Lesotho
+8eeeba1a-49f9-46f0-a18a-09db0e81a624,Mr. Matthew Burns,2025-05-25,66.85,Palau
+a85ca7d6-05f1-4fa4-aec3-319bdc742029,Larry Gonzales,2024-04-22,255.5,Heard Island and McDonald Islands
+c8ebffae-1672-41b0-88d3-01fa5f1be6d1,Benjamin Raymond,2025-02-09,134.37,Saint Martin
+1580d74f-e40b-4a83-ad56-b7f3580a7aea,Mr. Danny Gallagher,2021-05-31,281.28,Venezuela
+98170c6f-469b-4fbb-a3a8-f2a035512b10,Troy Osborne,2022-09-14,89.85,Estonia
+8e760b01-91a8-4217-8704-25ac526bbd00,Chad Dixon,2023-01-19,21.23,Austria
+016ae73a-3ae8-40ee-a0d5-47de9277fccb,Zachary Nichols,2021-06-19,478.15,Australia
+d84d48cc-53c5-4575-b9e7-8b3ebf889937,Michael Smith,2023-02-09,69.88,Belgium
+2c2353ee-5e02-4226-947c-3d1f8eeb349d,Sara Harris,2021-05-29,490.93,Guyana
+9f6fe315-d55d-48ac-916c-37b5b8487ba2,William Pena,2023-09-01,475.16,Mozambique
+51928b35-8848-424b-9e30-45ff8d97aad5,Sara Brown,2025-02-06,154.01,Canada
+9d5dab86-e6f1-421a-b294-76df2d7c9ead,Micheal Sanchez,2021-08-19,266.41,Nauru
+49bef4e2-ecc3-4977-8ec6-db0b84f2be1c,Dorothy Rogers,2024-09-04,92.17,British Virgin Islands
+2f0be457-942c-4774-bcc2-46073da3738a,Carlos Little,2020-03-26,215.41,Nepal
+5df37a37-ab2f-432a-b3d8-4acd148c67f6,Karen Garcia,2023-08-17,272.59,China
+638d7d63-e011-4aa4-81c6-cb755a45cb76,Elizabeth Woods,2020-07-13,345.41,Hong Kong
+c04e960f-7284-4864-8a90-da99f8bf68d7,William Velazquez,2021-01-29,405.91,Syrian Arab Republic
+4d445932-e19f-4bb9-8f22-816c5bcce3f7,Jill Dickerson,2025-02-25,221.56,Barbados
+c6ef08d3-0d4a-4ec5-b8a4-999fbaeb9598,Amber Peterson,2022-12-09,486.15,Uruguay
+96863145-7e43-4b71-ae62-735e0b8bebc1,Melvin Smith,2022-12-10,355.81,Finland
+e1257b71-27a1-4d91-8442-a54e76aad13a,Kimberly Hoover,2021-02-08,352.5,Morocco
+5adfecf1-329f-463c-a4ba-00e724d9cad5,Hailey Lee,2023-04-30,136.35,Philippines
+f5493490-3d7a-48cd-bddd-0d5fbb60086c,Mr. Justin Farrell,2022-10-06,44.73,Cape Verde
+c9394e63-b2f7-41a0-bf16-7bda658fc9f4,Jeremiah Moore,2020-03-01,373.05,United Arab Emirates
+0aa4a156-f754-415c-b547-ff77e16fa8c7,Eileen Gentry,2020-05-05,463.57,Antigua and Barbuda
+7c6c6f20-1a6b-4bd0-88ba-30d8d48b96d3,Timothy Garcia,2022-07-22,333.43,British Indian Ocean Territory (Chagos Archipelago)
+38115c52-b875-472a-9b1e-59f01ec97596,Savannah Barron,2025-04-07,176.64,Congo
+e28d9c09-0476-4560-a490-2d386c0c269c,Alicia Mcgee,2023-09-20,186.36,Brazil
+9527b8fb-f91b-4bfd-b46d-f4c7645303d7,Joseph Walker,2021-11-02,155.19,North Macedonia
+61f8945c-2b1c-486b-88e9-082feef9d490,Carlos Smith,2022-09-16,44.69,Botswana
+e83d17a0-3c27-429a-9eb4-44307fcc6052,Kathryn Hunt,2020-12-31,272.38,Uzbekistan
+4344e249-8c88-4766-900f-fb8e49ff4e80,Ivan Noble,2022-08-17,468.21,Croatia
+f61a7803-2b38-459c-b198-a2c7c000738c,Jennifer French,2024-10-05,293.72,Guinea
+f8e90315-0f7c-4543-9bd1-eecca2a2afc0,Thomas Garza,2022-06-16,78.3,Jamaica
+b3b56c34-33d5-488e-9b1d-5f70eb6b1a1b,Heidi Thomas,2021-07-15,265.32,Bosnia and Herzegovina
+2993866d-c365-4444-ac27-11c21204497b,Diane Atkinson,2021-04-15,234.29,Mozambique
+3c851d4f-de2f-45ad-8e7a-1a8519eb72bc,James Williams,2023-03-09,191.17,Mayotte
+da396a8c-ca5c-49cc-a8be-27190e299a21,Edward Bailey,2023-11-23,151.44,Malaysia
+d918e26a-ba93-4b0f-bfc7-a668cbd8952a,Michael Martin,2021-04-26,233.99,Slovakia (Slovak Republic)
+353d7188-b66c-47d4-9c80-c615fd9bbb55,Mario Wise,2024-01-12,320.03,Kazakhstan
+d14eb723-9a04-4cf5-8225-0e0b70315593,Kevin David,2021-08-19,484.46,Vanuatu
+4e74106b-176c-44b4-8f5a-12d32cf029cc,Karen Ward,2025-03-09,352.11,Aruba
+8509b20f-a3f7-4a91-89f4-6e407cc10f09,Karen Hicks,2025-01-28,497.69,Guinea
+dd9e359f-fac7-4ea7-9902-a2257a0999c5,Jason Wolfe,2023-02-13,193.6,Paraguay
+633ddc42-6747-4c59-9c32-aff1ce29be09,Timothy Greene,2024-09-09,424.61,Vanuatu
+96ce6a5a-6c37-435a-8c04-edc9eb64a921,Linda Hartman,2025-07-01,182.01,Luxembourg
+3dbbc826-7f13-485a-80d7-9ff211a43499,Jessica Davis,2025-04-05,163.25,Guinea-Bissau
+9e44a846-514e-4382-aae4-f0f14df6f8ac,Christine Williams,2020-12-10,477.87,Turks and Caicos Islands
+fc874e2f-37f5-4483-b277-83ca3369ee31,William Hill,2022-08-01,193.73,Jordan
+5469d3e1-8d04-4d2f-b6ae-4c01aaf68ea1,Jessica Campbell,2021-04-14,449.54,Ukraine
+3c8f8bd8-ad79-4a06-9b52-6f9a8304cbab,Deborah Bowers,2025-07-24,471.28,Saint Pierre and Miquelon
+a292e536-53e8-4970-8684-275d28f05635,Lonnie Moran,2024-04-10,296.74,Greece
+e620f644-ba05-4967-8c17-c2c909dae5f1,Lisa Novak,2022-09-23,460.81,French Guiana
+5153a03f-1332-4f03-9ad6-51152114a33f,Austin Lopez,2025-05-28,408.15,Papua New Guinea
+666aba67-5817-4a96-9398-1be52480be06,Karen Arroyo,2024-01-14,348.11,Heard Island and McDonald Islands
+37a02556-000d-4821-a9fb-e0ef8f65571e,Nichole Lopez,2021-05-18,31.45,Netherlands Antilles
+cb0b8875-c325-49ce-abab-6b4bbaf71753,Jason Kramer,2025-06-15,82.22,Gibraltar
+fff49d5f-e239-4625-bc9b-2aa77b41919e,Allen Aguilar,2025-07-01,222.64,Tokelau
+f038b225-2fd7-4829-9a18-93f7ccc31dda,Robert Andrade,2021-08-26,193.6,Bolivia
+e19d2fea-f8fe-45ef-b8e4-88ddc4fbbb3d,Debra Thompson,2021-04-15,111.41,United States Virgin Islands
+e7740abc-dd60-403b-badb-c49efad4c41c,Scott Walker,2024-07-11,480.14,Malaysia
+a27fa926-5a6a-414c-9f87-5fd9b2c7fb6c,Brenda Perkins,2023-10-29,403.6,Chad
+41e03d00-2776-4892-a7ae-d7cd814830d0,Troy Johnson,2022-08-18,492.75,Peru
+2d257559-ebc3-490a-b82f-9c8082a32abb,Amber Gordon,2021-01-25,134.84,Peru
+cb3f194d-7c21-4e83-bde1-fdb742415347,Donald Davis DDS,2022-01-30,444.45,Lithuania
+78ac90a2-4b56-4293-acb3-bb23b3ccf076,Samantha Aguirre,2023-12-26,391.56,Antarctica (the territory South of 60 deg S)
+39813fea-7d4c-4828-b17c-6df35e0c5475,Kevin May,2020-06-12,222.65,Grenada
+5b73a00a-440b-418e-ab61-3bdf158d8221,Bruce Stark,2022-07-05,19.4,Brazil
+97f90a20-088f-442c-a34a-cea844267210,Carol Edwards,2023-12-23,442.13,Latvia
+501fca35-a07f-4d16-a449-4e011919b70e,Jonathon Jennings,2025-04-04,232.57,Lebanon
+a71a72df-3fe9-4258-be1b-c3764da29468,Christina Jackson,2022-07-25,196.25,Madagascar
+a948085d-0c33-4ca4-98e1-4e44f658dcbe,Joseph Smith,2025-08-01,387.33,Australia
+cac1b131-06dd-4a6a-9e85-e486bb3acf38,Jordan Herrera,2022-01-07,424.66,Lebanon
+35dcd13a-7c6f-471b-b5f7-09bf7f147395,Leslie Nguyen,2021-04-04,336.47,Timor-Leste
+2247f412-5c26-4e03-9313-80209a9e9fb9,Valerie Carr,2024-10-02,88.77,Eritrea
+4c0d3e21-2c6d-4b70-8aec-ae11f93b9ee8,Danielle Guzman,2022-07-21,166.97,Albania
+29e2549c-d11b-4de7-8e38-bd6cd23b9669,Stephanie Nguyen,2022-11-13,124.25,Montenegro
+c5639c22-dbec-4081-a878-433218509c0b,Dylan Flynn,2020-09-27,302.13,Guinea-Bissau
+6b3d6b3b-4d92-4919-a55b-58ba6f74d2b2,Ashley Herrera,2025-06-23,292.14,Slovakia (Slovak Republic)
+27a3c44d-1f37-4866-ad30-793d7f7273dc,David Whitney,2024-12-08,88.43,Mozambique
+65ab5f0d-dbe1-47b2-8d3e-42eab5a682df,Alan Edwards,2025-06-08,43.81,Israel
+1b50ce68-8320-4e1d-b7c7-dd85e43c5dca,Kathy Zimmerman,2020-06-23,213.11,Israel
+d7da368c-1b9f-421e-bfd5-251737c46671,Jean Gomez,2023-01-07,234.6,Cayman Islands
+d2641888-4b04-49f5-8e0c-b3a25d195916,Angela Higgins,2023-12-31,200.77,Saint Kitts and Nevis
+d7fda67d-6347-4a0f-afb5-5d9c23db9d05,Stacy Estrada,2025-08-17,137.45,Somalia
+72038c7d-5a19-4187-b2ac-78beed816ae4,Michael Wilson,2023-12-04,285.47,Gabon
+dda41980-a552-4f49-859d-9850c5e583f6,Jacqueline Wade,2023-01-22,289.97,Wallis and Futuna
+22a6e668-d29e-4790-9516-2a5f73d3044d,Kimberly Stevens,2025-06-04,308.46,Saint Kitts and Nevis
+b100bd8b-4454-4fa1-90ba-32cb13c70b7d,Michael Wong,2022-10-18,271.87,Estonia
+c593035c-e841-4f52-b22b-f55898a20793,Matthew Martinez,2021-03-24,381.99,Jamaica
+ccacc8be-2b41-49fc-b50f-3317ea5a7ca1,Justin West,2021-06-27,96.57,Jersey
+291f9594-3fb8-4757-86d3-4c938e2aacff,Laurie Kirby,2021-12-30,72.85,Norfolk Island
+4239e9c5-b963-4239-8bbc-e24d0ca17a1b,James Smith,2023-12-25,384.86,Albania
+0400559f-e92a-4a2e-98ad-669de6fad8c8,Jim Wagner,2020-04-14,284.3,North Macedonia
+3d4b181d-bdb7-4289-8b20-4aebcb68636d,David Austin,2021-04-22,362.61,Solomon Islands
+a8327b1f-dead-4133-b4ac-46df74166f1c,Kathleen Williams,2022-12-25,355.0,Cook Islands
+fd67323b-4e11-494f-b7d5-e21e9aec7cff,Adriana Williamson,2020-12-13,398.66,Algeria
+8855524f-c0c6-4ed0-b397-369034bf44ea,Carmen Steele,2025-06-28,490.69,Kiribati
+8dacbbc9-c703-4749-afe8-c229a2d79b14,Kathy Kennedy,2023-05-25,492.34,Spain
+efcb75c3-87d2-4ec4-aeb5-b2ab0505c7b1,Kenneth Medina,2023-03-26,149.7,Guadeloupe
+1f145d81-bac2-45b7-b4b6-2b8a26443ef9,Joseph Daniels,2024-05-25,19.94,Gibraltar
+24e32760-fe15-47bd-89e4-416f35f49820,Bradley Wright,2022-05-17,189.89,Grenada
+4fe8d4d7-67ec-4c6f-9e48-9a704d3818b4,Amanda Wilson,2024-05-05,180.75,Barbados
+2ffe326c-e2d2-4c65-bdd7-8714e237fea7,Alex Riddle,2023-11-20,430.12,Saudi Arabia
+4d97e62a-6530-46c3-8658-930d73277495,Brenda Lawrence,2020-03-24,172.65,India
+5675b020-9178-4994-8ef9-09d325e040f6,Scott Johnson,2021-02-04,149.47,Rwanda
+736fc235-bf65-46d9-aa8a-89a0a110b6f8,Maria French,2021-06-09,145.45,Estonia
+6800426a-9af6-4e4d-9ec4-9a9ed7ac23e5,Bobby Odonnell,2021-02-27,348.26,Taiwan
+94e0ad00-91a2-41ca-a4c1-03d4973d17ac,Madeline Morgan,2024-12-13,315.22,New Caledonia
+6e6e0a58-0ea4-4ef6-abb6-efc27d81184e,Gregory Torres,2021-03-16,134.64,Puerto Rico
+67b83ea7-aad7-40a7-bc0e-e1f777d71498,Jacob Beck,2022-01-29,95.99,Tajikistan
+c88cd934-6c11-4897-8b19-6a9cdd7a7294,Brandon Bowman,2020-06-14,322.2,India
+dc6ab8b3-7d0d-4455-804d-58c981a5d4b2,Michael Newman,2020-09-27,86.07,Reunion
+5754a3c9-f8ad-4f75-9822-33f1739bcb70,Megan Brown,2024-08-31,40.63,Cayman Islands
+4855fb09-46d8-4f15-9ccb-cf4f7112db21,Ryan Patterson,2021-05-01,369.47,Micronesia
+8f939ed5-e6ff-426b-820d-3806ec727654,Rose Davis,2021-08-07,166.91,Pakistan
+0640ebe7-c87f-4390-a520-e3b5d36b0124,Patricia Gonzalez,2022-10-30,106.8,Jamaica
+807f2f0b-aab6-4b76-b58e-c06a04ec2688,Lindsey Becker,2025-02-03,300.02,Angola
+66efbfa8-f604-4e10-b758-0d9832afcf3c,Amanda Taylor,2022-05-25,104.96,Angola
+256523a1-0851-4871-9023-a571a4eb6d2e,Ryan Russo,2022-01-16,217.13,Turkey
+d2d95ad6-78b7-4b5a-b4bb-2bb48f618d44,Rebecca Gonzalez,2023-10-10,174.19,Christmas Island
+75acbac4-7255-4f77-8934-fb3e8a4e8146,Jeanette Richardson,2023-04-08,124.62,Saint Martin
+725fa8e6-ba7a-47b5-9f49-8b802777e474,Kimberly Leach,2021-06-30,402.7,Hungary
+c8baf18f-de50-49e6-95d3-cf2858659001,Tina Johnson,2021-08-29,272.91,Malawi
+4458d45d-35f6-4883-a487-6f1386e850c9,Kevin Alvarado,2025-02-24,152.5,Jersey
+6501f36c-9e57-4729-976d-af796e27436e,Robert Rivera,2020-02-22,97.94,Russian Federation
+5f4719fa-0ba4-4569-9155-c18303936661,Dawn Stuart,2022-06-30,84.99,North Macedonia
+083f48e2-27fb-4217-b421-eceb862a152b,Jaime Thompson,2024-09-11,444.39,Christmas Island
+ddfb2ea0-8be3-4154-ab5c-b37aac90cc64,William Jordan,2022-11-30,115.46,Mayotte
+c3c39a40-b2d1-46ca-80d0-483da51badac,Nathan Cruz,2023-09-01,296.54,Montserrat
+2ba250ca-f89e-4cbd-97cc-44e68a126a08,Alex Harris,2023-09-15,145.85,Chad
+af658097-8611-4ec0-bd9e-fb7930a0a47b,Terri Thomas,2023-07-22,377.1,Japan
+34ae9993-016f-4076-9414-54c7ffeadd48,Richard Sanders,2024-04-09,311.8,Mali
+ca6ce745-3fed-4329-8fb8-420128a7f292,Gerald Sanchez,2025-07-09,397.83,Mali
+0f5abb9a-95e4-49b2-a428-7dbbaf3380f3,Bridget Neal,2024-02-21,319.36,Guatemala
+049ce67b-1b32-43e2-a344-c7191d6eadea,Vincent Williams,2024-07-26,190.91,French Guiana
+4bd4ee0c-ab36-424d-b9b7-732e54ac62d0,Jonathan Anthony,2021-07-03,306.76,Zambia
+6f2a9978-d5ab-4196-8a27-acade49099b0,Michelle Rodriguez,2022-11-27,497.39,British Virgin Islands
+ca429225-c890-4377-889f-a823a998a98e,Paul Kelly DDS,2024-09-26,443.15,Kyrgyz Republic
+135eb90e-320c-4914-8acb-ff97984fe65d,Robert Petersen,2020-04-05,35.43,Lao People's Democratic Republic
+5a7d3658-8a00-4170-afc0-d2bf7085e645,Anthony Walker,2020-04-26,487.64,Mayotte
+5af2d1dc-414e-49da-8097-534d5ec10f8f,Zachary Parker,2022-03-08,479.84,Uganda
+5a37dc96-9d61-45fe-a353-183e3b51d1bb,Daniel George,2021-08-29,346.87,Barbados
+c9becfc9-19d6-488d-a5a3-5c43f5147271,Stanley Montes,2021-11-23,287.32,Colombia
+29beebdc-4e9c-4eac-bdf6-7dc36344ab02,Jonathan Miller,2023-01-31,201.13,Suriname
+b8f1d055-b59a-4028-9b4a-3bf8e7531e54,Cody Jackson,2020-03-13,85.1,Ethiopia
+b2892d9d-a622-4d25-9837-bb272a50cb11,Dawn Rodriguez,2024-03-11,273.82,Guatemala
+1711040c-2c6d-40be-8d84-043e4b0584f4,Cory Lewis,2021-08-08,70.63,Pitcairn Islands
+29440123-600f-4703-acab-eac5e7a12d16,David Gutierrez,2020-01-24,235.15,Argentina
+a344429f-c741-4422-a324-0cbe5943237c,Stephanie Mcintosh,2023-08-06,32.94,Denmark
+eb6bd1a5-fe65-40b9-a242-cb472ba66f61,Brenda Young,2020-08-08,29.88,Ghana
+808b5042-83c8-44db-be12-3a6884c2a2c8,Jasmine Grant,2021-09-27,182.95,Gambia
+a3825731-818b-46a3-a71e-dd8717bd8b8a,Robert Hunter,2020-10-25,425.35,Angola
+d2f21fa0-3b73-44d5-ae89-7348f0fe1b6b,Peter Wallace,2025-02-06,48.69,Paraguay
+3cd27f23-b291-4210-84bf-1920b85fb23f,Jeff Page,2020-07-04,408.69,Tuvalu
+309cb571-ccc9-4aff-af00-f2ec78744bf8,Maria Ray,2020-03-04,231.13,Lao People's Democratic Republic
+e8f464c8-e33d-4019-aadc-468dff4d1384,Casey Hudson,2023-07-29,403.04,Gibraltar
+13f35381-b149-4cf4-9c3c-9f3c6eaa5f57,Lauren Adams,2020-11-28,40.25,Montenegro
+ea2952f6-1d39-450a-bc67-20d7c0b113a3,Ronald Gardner,2021-03-08,88.73,Cote d'Ivoire
+7ba14fde-a217-4284-89ad-16b9bdcf330d,Rebecca Cook,2020-08-12,239.98,Kazakhstan
+32064e0e-bfc9-4935-9677-92cce56ceee1,Taylor Suarez DDS,2024-07-13,475.78,Burkina Faso
+c701c3f2-2198-43dc-8c74-3b92759abcff,Stacey Alvarado,2020-03-16,169.79,Congo
+24ae63df-c097-4001-a44b-251086dbc967,Robert Gallagher,2023-01-30,199.91,Pitcairn Islands
+d4d79ccd-2dc7-4208-a7fd-fb6e04f5e00b,Catherine Odom,2022-03-26,204.85,Benin
+9bd61269-2398-4c00-8294-db2bf6c62a00,Stephen Holloway MD,2023-04-22,165.76,Nauru
+cd2910a3-8ad4-4c89-b309-a07d642db5d1,Amanda Cook,2024-02-11,194.62,Lao People's Democratic Republic
+3550dc20-c1e6-4c6c-bbf4-d3daa8125298,Louis Moore,2022-02-04,139.0,Japan
+a0a861f5-0e7a-4387-ac81-dc79e31c2f37,Stephanie Brooks,2020-03-11,140.96,Qatar
+17b09609-8e31-453d-b9a9-8eea3366de3f,Elizabeth King,2022-03-17,265.05,Uganda
+abfac5bc-6382-47da-a309-3e2f6c1316d2,Amy Stephenson,2021-04-28,71.88,Paraguay
+d0dfc0b7-ce68-4af1-9144-290c2f1a6d11,Donald Oconnell,2020-08-18,198.04,Sri Lanka
+fccf754a-e63e-4d85-99ab-f46042a44324,Mrs. Susan Johnson,2022-11-11,368.81,Svalbard & Jan Mayen Islands
+02dd5b7e-62b2-44df-b31e-3d856bf78bd5,Amanda Mcbride,2024-04-25,357.91,Austria
+5fafd35b-aeeb-49c4-97a4-c8c63f14d451,James Scott,2024-06-21,467.16,Philippines
+45ccfaf0-b690-49c8-a98b-046da77aa5f6,Christian Sims,2020-12-13,330.72,Tokelau
+958b9331-a427-4f72-9a83-e3dfd7d62f91,Zoe Vargas,2024-06-02,202.16,Guinea-Bissau
+c36ead13-6579-432b-a1da-15a8e18bdd71,Michelle Avila,2020-10-13,341.81,Lao People's Democratic Republic
+1bbf3931-c3f4-4a9c-a826-868f99c51b41,Randy Hall,2021-12-31,235.36,Zimbabwe
+f438adfd-2bef-4832-a84e-771e36271126,Mike Gaines,2022-11-12,163.59,Lao People's Democratic Republic
+7f494ebe-50af-44ec-a9e9-b5be4a6df6ba,William Warren,2024-06-21,214.56,Senegal
+8424bc03-fde8-4079-bfe7-132b636a1128,Cathy Anderson,2022-12-27,426.15,New Zealand
+5b2657cd-9cab-4c48-a8a8-12a1d1048373,Timothy Morrow,2022-06-06,151.42,Turks and Caicos Islands
+e0eda834-6c69-4b3e-9ad5-cd164c1dccab,Michele Warner,2021-01-28,222.22,Turkmenistan
+ba28f29a-3269-4f7f-aa6d-2924d8fc16f4,David Cisneros,2024-07-19,171.61,Guatemala
+ee5fe88e-a134-4052-9353-bf760fa35ed7,Terry Garcia,2022-08-31,31.02,Armenia
+8bfefe29-b341-4fc0-a35c-d22cbb68ba84,Jessica Jackson,2020-04-18,228.7,British Virgin Islands
+53d7d765-1588-43d3-b799-fd4e0d6bd7c8,Todd Clark,2020-09-09,44.98,Macao
+98a9f61a-eebf-4256-98d9-1f51f5fec8ee,Juan Hickman,2024-07-10,97.92,Lesotho
+2f293448-38ca-40de-ae5e-c6181a01cae6,Bonnie Fernandez,2023-12-31,147.74,Peru
+fec892eb-e364-4068-a67e-ae042621e79c,Melanie Pollard,2021-04-07,77.02,American Samoa
+1373df6b-0354-4f16-9e79-767463e9d5f6,Joseph Stewart,2025-06-27,270.74,Kiribati
+fb025734-8031-457e-b317-c6169471b5f4,Kathleen Garcia,2022-03-27,152.79,Ecuador
+1e46b671-2887-42fb-a5a9-a987f8d5b140,Jonathan Anderson,2020-08-06,424.7,Costa Rica
+7c1f70c3-2c9e-4484-9f9a-f597ab23e455,Shannon Sanchez,2024-05-12,295.87,Tuvalu
+aa4a77d1-75a0-4a89-9f47-3ea6e3f88f0e,Heather King,2021-09-25,90.8,India
+76ca89cd-a2d9-43e1-942c-17c81f894ba3,Steven Clark,2025-08-27,473.38,Ghana
+3a0d3b4c-e9e4-441a-a4b7-aec7b10e1061,Robert Wright,2020-11-10,369.96,Lao People's Democratic Republic
+e0365740-aed1-482d-a316-155eb497974f,David Becker,2023-09-04,63.84,Colombia
+b023c017-5401-41c4-bbd6-0e2d902f9415,Ellen Salas,2022-06-09,308.17,Greenland
+449cfc64-692e-4c00-bff6-778ae9c7dac4,Olivia Yang,2025-03-24,476.86,Bouvet Island (Bouvetoya)
+2cd1bd65-5b08-4299-9844-1b088f2fe644,Amy Wade,2023-09-14,229.04,Congo
+8e2f1696-22e7-42ed-9bf2-fc1f28d16fac,Joshua Torres,2025-05-30,163.75,Netherlands
+a090dcfc-e7e4-49da-8f3c-03fa2193f4db,Tonya Hamilton,2020-07-27,380.23,Venezuela
+bd864b4f-3fa9-4a61-9cf9-4af77a02d19e,Roberto Johnson,2021-06-07,220.35,Peru
+1a563191-db11-43ca-ad65-1b21813c8016,Michelle Ingram,2024-04-05,178.78,Bermuda
+bbd921ad-2e0e-48e6-b4d3-4d9902d3e1a2,Valerie Winters,2020-03-04,64.22,Portugal
+442270da-d107-40d4-8fd4-d13911a81e32,Matthew Price,2025-01-13,324.24,Peru
+382ab76c-0e8a-46a6-8ec9-0f7d409bcebf,Amanda Ruiz,2022-01-22,429.48,Falkland Islands (Malvinas)
+710b6985-7b39-4a1e-b46e-7b2631df1184,Peter Green,2020-08-15,263.28,Bosnia and Herzegovina
+38f0633b-8dc0-48bf-b426-6efb2f58cdfc,Phillip Miller,2020-12-07,179.92,Belgium
+a9b032f4-a98a-4176-a804-51da6fb9655f,Patrick Summers,2024-09-17,154.19,Vietnam
+a3047bee-1356-48b7-b76c-e185d77347b9,Jennifer Sutton,2024-03-20,459.09,El Salvador
+0aa4446f-43ab-4f47-9379-15173406568e,Amy Williams,2020-11-17,73.69,Palau
+64872460-345f-454b-bf7e-f8a9395f28dc,Richard Brooks,2025-07-14,455.52,Sierra Leone
+4df6c8b6-1eef-485d-ac89-35fae52b6f04,Christopher Jones,2020-06-22,380.86,Bangladesh
+2d4c8fa0-b650-41c5-849e-37762bc58af1,David Mccoy,2021-03-20,332.15,Sao Tome and Principe
+9bc5df30-93b6-43d2-abc6-612b757c2703,Joshua Weaver,2022-07-09,55.71,Cook Islands
+85e97fc9-1854-47d8-805b-a18e7dd20587,Kevin Brown,2022-05-30,62.13,United Arab Emirates
+9090f8a3-024e-4966-8be6-2f8e0086379b,Katie Hudson,2020-10-26,331.05,Monaco
+9950bb83-ef3f-45b1-abb0-40b5cc02522d,Angela Flores,2021-09-03,290.83,Netherlands Antilles
+677e39f3-77ca-40db-839c-646c386a665b,Wesley Murray,2022-04-25,36.68,Christmas Island
+00bb3f6f-995c-4d68-b5fa-b12453216f44,Kathleen Crawford MD,2022-05-23,285.34,Nigeria
+571ac470-7a84-43aa-9267-2130e2f7f4f6,Susan Norris,2024-03-12,83.34,Seychelles
+97b7bc9b-9ca3-462c-90c3-66a397904a3f,David Chaney,2020-01-21,85.8,Cook Islands
+2d6d709d-a1c6-4a7d-9918-27b1c46fcdd7,Patty Frazier,2020-11-10,96.98,Mongolia
+1bccc786-5500-45aa-9af3-16ea0232e3ec,Jill Jones,2022-07-14,379.5,Martinique
+63b8ec49-5127-4aa8-9708-947412d96ac3,John Gilbert,2022-05-27,14.2,Jamaica
+e665ddf7-54d8-408a-9afa-d39f3ff5dcf4,Andrea Watkins,2023-01-22,369.57,Barbados
+2f3857b8-6ad7-4c3f-a6c0-7a8381941121,Jacqueline Holmes,2021-03-31,164.71,Saint Barthelemy
+f7f48b95-caa4-4d61-980e-04858e9e1f28,Scott Phillips,2021-08-09,359.24,Saint Barthelemy
+a9ea452a-92ae-43ef-9c8b-68f78fd0e3f1,Jason Wilson,2024-09-03,225.99,Algeria
+9e3caedb-9698-492c-9419-282029365ef3,Cheryl Davenport,2022-02-24,315.04,Rwanda
+d120f657-c4f5-4e05-9814-134c3c384e6c,Barbara Nixon,2021-04-09,490.59,Togo
+8a16d70f-2f4a-4fc4-805c-a5cb35c5ac4c,Matthew Morales,2021-08-17,131.89,Cook Islands
+811015bd-e6c5-422c-a042-a0449987a2b3,Jason Simmons,2025-03-31,427.3,Georgia
+d6d7fb86-f094-4818-9ca9-21c3da95988f,Melissa Moore,2020-07-10,26.69,United States of America
+a427908c-8e21-4347-9913-aeda35e307f2,Kenneth Garcia,2022-01-21,217.62,Heard Island and McDonald Islands
+1d473820-c6f4-4cb1-8c44-e6e5fc9bb4ab,David Johnson,2022-10-22,445.27,Saint Helena
+118e4609-469b-4362-af42-44e92fce56a6,Kaylee Martin,2023-05-01,339.41,Hungary
+b6ced247-2b12-46cc-8389-19777b791367,Elizabeth Webb,2022-01-13,222.1,Mauritius
+720ec9bb-a8bd-49be-8a9c-6fd8762f661c,Earl Moore,2023-04-07,454.49,Sierra Leone
+202163bc-17b5-4768-a469-49c4d9b76e2d,Nicholas Murray,2023-10-05,468.52,Syrian Arab Republic
+806e3793-53d0-4fa6-9e84-3b0d968d3be4,Patricia Baker,2020-12-13,56.09,Madagascar
+f3ba5aa3-b8f9-4ddc-b6c7-d54ef4cf012d,Kenneth Fisher,2024-07-04,379.24,Fiji
+0b2a97ba-6f9a-4035-a579-23ca10bb9970,Daniel Henderson,2023-02-02,410.28,Guatemala
+1370dc99-b275-4eb5-bd21-261fb8b9b855,Nicole Hodge,2022-02-01,29.88,Luxembourg
+b6b6bde0-50f9-4846-971f-eb7ee0faa5fa,Michael Nunez,2025-02-27,257.12,Benin
+de835e6b-4ed6-48f4-96d7-34c5f2b5df6a,Andrew Aguirre,2025-05-28,128.12,Bermuda
+ae803ef5-cef0-4184-8291-7198ff07bce1,Abigail Kirby,2023-08-20,363.14,Uzbekistan
+a058c41c-bbbf-4f59-83e9-960b5178d49f,Nicole Bullock,2023-02-05,335.15,Palestinian Territory
+2b597587-a658-4e1f-83c7-9fdc15aded26,Amy Cain,2023-08-14,362.88,Slovenia
+d9223b82-2fb7-4cdd-93fe-424aaf560b58,Mary Gomez,2024-05-18,64.12,Papua New Guinea
+1cc53ecc-aa6e-4900-bf2b-0ea4bd17b185,Billy Hayes,2024-10-29,71.18,Italy
+14c887e6-b375-4d42-905c-f15402fb7dbe,Mark Davis,2025-04-14,65.77,South Georgia and the South Sandwich Islands
+e4b0ad6e-0ff8-4633-acc9-b5538307cd68,Robert Smith,2022-07-11,218.69,Liberia
+451db1b4-02c2-46d3-af48-59a562bad376,Sara Freeman,2024-03-11,313.97,Ghana
+14b9abf4-f05e-416f-9d12-6d89bbb01278,Joseph Carpenter,2023-03-03,176.18,Gabon
+4dac6b1c-662c-4065-815b-cd3e6f9c4fb0,Luis Green PhD,2023-11-22,355.4,French Southern Territories
+028eaf01-c50c-4f30-9121-05d7cffb2a53,Andrea Ford,2020-04-24,495.53,Honduras
+e362e13f-44a3-49e7-a6bc-1963059355b1,Steven Garcia,2025-01-07,346.69,Cote d'Ivoire
+dff5fdf8-5293-4652-a781-55dd72172fbd,Jeff Hanson,2025-01-19,269.01,Italy
+9a60e8a5-dbf7-4c29-b8af-e6f1b6b581e7,Antonio Washington,2021-08-27,124.23,Bulgaria
+4977ff73-e91d-4cf3-807a-8361b11d0ef6,Kevin Grant,2024-06-25,44.62,New Caledonia
+4ff52717-5054-43ee-b387-2a9a49d3d13e,Taylor Martinez,2020-08-29,186.09,Christmas Island
+64ce4008-5744-4298-a2b3-223c5e0a4a1c,Scott Mitchell,2021-09-27,89.81,Holy See (Vatican City State)
+2e84697b-a0c3-4b2a-bc3a-5a7a6f2fc3f1,Tara Mcintosh,2021-04-04,218.92,Guadeloupe
+6822e11a-9425-4d29-995f-f0ec7afb06fe,Anthony Brown,2021-08-04,156.46,Slovakia (Slovak Republic)
+6847fac7-c458-49d9-8ba7-1c1acec00473,Richard Graham,2022-02-07,95.45,Azerbaijan
+b8752e42-91b6-47e6-86f9-8719e9d25cc6,Nicole Martin,2023-05-26,18.59,Andorra
+0ea3c427-9586-4ea0-8d3c-fed4993cdcaa,Brandi Fuller,2020-07-27,499.28,Taiwan
+0699cabe-efbe-433d-ae97-2af8401cb85f,Karla Marshall,2023-11-06,81.82,Zimbabwe
+f34913a4-93ac-47bf-ad91-9ceda0466418,Allison Thomas,2023-07-21,410.06,Senegal
+c1b6c521-6cbc-455b-b6d0-000fd8028492,Regina Smith,2021-02-17,358.07,Saint Barthelemy
+94982b43-4367-4b8f-93a5-a2bdae8d3ccb,Alison Hansen,2023-02-20,88.59,Kenya
+b0aa7775-0ddd-4498-92d4-5bb37d4509e9,Andrea Davis,2021-08-24,72.81,Northern Mariana Islands
+4c572b20-2b02-4680-9810-cacf9743841e,Emily Williams DVM,2022-12-13,218.44,Lebanon
+7c682165-79ca-4ccf-8a9f-70c209ed2f63,Darryl Mitchell,2021-03-01,90.55,Monaco
+b388ed4f-2b05-419e-963b-b0513a944507,Deanna Wilson,2024-01-18,194.52,Korea
+5c15e6d0-57d5-4f3a-9d94-9f98ea3e5f1d,Lisa Lopez,2022-10-04,54.06,South Africa
+ede245df-b8e5-4d97-a435-7541383e723b,Tammy Benjamin,2022-06-29,218.41,Myanmar
+3511ed93-9bc3-46e3-9620-6330761cc691,Maria Harris DDS,2022-05-07,171.43,Greenland
+e8464bb8-1e6d-4d6e-93b2-6791ee21c910,Alejandro Beard,2023-01-19,103.11,Saudi Arabia
+89be85fd-7f24-44b2-9f8f-0d5ee3d9b3e0,Ryan Woodward,2021-02-05,88.54,France
+abc25ddf-af26-43fc-8e4c-2172b59f0171,Timothy Smith,2024-01-06,242.78,Taiwan
